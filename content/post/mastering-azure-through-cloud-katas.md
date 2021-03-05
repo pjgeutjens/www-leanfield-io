@@ -2,10 +2,10 @@
 timeToRead: 0
 authors: []
 title: Mastering Azure through Cloud Katas
-excerpt: Through executing a series of short exercises or *katas*<sup>**3**</sup>
-  revolving around VM creation, monitoring and ARM templating, our goal is for the
-  reader to become increasingly familiar with and skilled using the Azure Cloud. Meanwhile
-  we track the execution time of the tasks to measure progress towards mastery.
+excerpt: Through executing a series of short exercises or *katas* revolving around
+  VM creation, monitoring and ARM templating, our goal is for the reader to become
+  increasingly familiar with and skilled using the Azure Cloud. Meanwhile we track
+  the execution time of the tasks to measure progress towards mastery.
 date: 2020-03-06T23:00:00+00:00
 hero: "/images/kata.png"
 draft: true
