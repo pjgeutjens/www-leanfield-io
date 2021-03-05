@@ -9,7 +9,6 @@ excerpt: In this article we will build a similar appliciation using the Vue.js J
   result to highlight the process as well as the code involved.
 date: 2020-01-16T08:00:00+00:00
 hero: "/images/azureplusvue.png"
-draft: true
 
 ---
 # Building an Azure Cognitive Search Results page in Vue.js (Part I)
