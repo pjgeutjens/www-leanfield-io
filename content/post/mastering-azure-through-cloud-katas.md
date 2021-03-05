@@ -8,7 +8,6 @@ excerpt: Through executing a series of short exercises or *katas* revolving arou
   the execution time of the tasks to measure progress towards mastery.
 date: 2020-03-06T23:00:00+00:00
 hero: "/images/kata.png"
-draft: true
 
 ---
 ## Introduction <a name="introduction"></a>
