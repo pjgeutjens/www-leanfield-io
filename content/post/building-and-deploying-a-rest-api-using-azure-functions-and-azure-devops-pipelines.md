@@ -1,5 +1,5 @@
 ---
-timeToRead: 0
+timeToRead: 10
 authors:
 - Pieter Jan Geutjens
 title: Building and Deploying a REST API using Azure Functions and Azure DevOps Pipelines.
@@ -7,7 +7,7 @@ excerpt: Representational State Transfer (REST) API's are everywhere. A REST API
   the frontend to a data source, it provides create, retrieve, update and delete access
   to the data items. In a typical 3-tier application it sits between the UI where
   end-users can consult and modify the data, and the database where the data is stored.
-date: 2020-04-17T06:00:00+00:00
+date: 2020-04-17T06:00:00.000+00:00
 hero: "/images/azfunction.png"
 
 ---
@@ -410,4 +410,3 @@ There we have it. A fully automated deployment of a Q&A REST API into Azure usin
 As mentioned at the start of this post, we could further optimise this architecture, including things like Azure API Management, image uploads to Blob storage, CDNs for faster access to resources. This will be the stuff for future blog posts.
 
 Hope to see you there!
-
