@@ -8,7 +8,7 @@ excerpt: In this article we will build a similar appliciation using the Vue.js J
   Search query API. The goal is to take small, logical steps working towards the final
   result to highlight the process as well as the code involved.
 date: 2020-01-15T23:00:00+00:00
-hero: ''
+hero: "/images/azureplusvue.png"
 draft: true
 
 ---
