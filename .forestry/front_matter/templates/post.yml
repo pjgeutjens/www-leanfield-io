@@ -40,3 +40,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/building-an-azure-cognitive-search-results-page-in-vue.js-part-i.md
