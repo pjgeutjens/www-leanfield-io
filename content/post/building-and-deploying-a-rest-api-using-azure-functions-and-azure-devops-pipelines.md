@@ -9,7 +9,6 @@ excerpt: Representational State Transfer (REST) API's are everywhere. A REST API
   end-users can consult and modify the data, and the database where the data is stored.
 date: 2020-04-17T06:00:00+00:00
 hero: "/images/azfunction.png"
-draft: true
 
 ---
 # Introduction
