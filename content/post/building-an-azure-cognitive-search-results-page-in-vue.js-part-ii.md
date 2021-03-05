@@ -94,7 +94,7 @@ I honestly kinda hate that we have to use this extra handler to fix this bug, an
 
 Really if we want to build out our app with more interactive features allowing users to query the document set, the main focus point of our study of the Azure Search REST API will be the $filter Query Parameter. The docs describe this parameter as
 
-> A structured search expression in standard OData syntax. When calling via POST, this parameter is named filter instead of $filter. See [OData Expression Syntax for Azure Cognitive Search][odata-syntax] for details on the subset of the OData expression grammar that Azure Cognitive Search supports.
+<em>A structured search expression in standard OData syntax. When calling via POST, this parameter is named filter instead of $filter. See [OData Expression Syntax for Azure Cognitive Search][odata-syntax] for details on the subset of the OData expression grammar that Azure Cognitive Search supports.</em>
 
 Knowing our search operations will initially revolve around 2 input types, the search string which is passed separately in the query, and the facets we will select on the page, we can deduce that our filters will have to look something like this:
 
