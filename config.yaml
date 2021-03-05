@@ -1,6 +1,6 @@
 baseURL: "https://example.com"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "leanfield.io"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
