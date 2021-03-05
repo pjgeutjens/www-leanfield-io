@@ -1,6 +1,7 @@
 ---
 timeToRead: 10
-authors: []
+authors: 
+  - Pieter Jan Geutjens
 title: Building an Azure Cognitive Search Results page in Vue.js (Part I)
 excerpt: In this article we will build a similar appliciation using the Vue.js JavaScript
   Framework and the Vuex state management library. Doing so will not only result in
