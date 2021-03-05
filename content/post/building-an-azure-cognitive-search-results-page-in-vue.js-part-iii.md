@@ -9,7 +9,6 @@ excerpt: In part I and part II of this blog series we built an Azure Search Resu
   static site using an Azure DevOps project and pipeline.
 date: 2020-02-22T23:00:00+00:00
 hero: "/images/azureplusvue-2.png"
-draft: true
 
 ---
 # Introduction
