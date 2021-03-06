@@ -32,7 +32,7 @@ Specifically two books I "read" in this way are worth mentioning
 
 I had also previously read and greatly enjoyed Cal Newport's **"Deep Work"**, a book which essentially sparked my interest in the topic.
 
-These books made me realise I could use this new set of certifications as an opportunity to experiment with different learning styles, applying what I was learning from the books, as I was learning it.
+These books made me realise I could use this new set of certifications as an opportunity to experiment with a different learning style, applying what I was learning from the books, as I was learning it, and incorporating the advise and techniques they promote.
 
 # Disclaimer
 
