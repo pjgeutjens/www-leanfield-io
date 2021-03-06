@@ -17,7 +17,7 @@ At the start of 2021, after a year of Covid craziness, I found myself ready for 
 
 While working on my Azure certifications, I would follow what you might call a "classic" method of preparing for the tests. I would spend a lot of time with an online course (or two), consuming videos on all the topics required for the exam, and at some point when I felt ready I would start doing practice tests.
 
-The way I used the practice tests is worth noting: as these tests usually provide a link to more information regarding the topic they cover, I would specifically spend my first attempt answering questions wrong and copying down all the "more information" links for review.
+The way I used the practice tests is worth noting: as the questions on these tests usually provide a link to more information regarding the topic they cover, I would specifically spend my first attempt answering questions wrong and copying down all the "more information" links for review.
 
 Essentially this technique worked for me. However, while I generally passed the exams I took, I never really seemed to live up to my own expectations as far as the scores went. I had a feeling that, for the amount of time spent, I should be scoring higher. Or looking at it the other way around, I should be able to get these scores with less study time. I also started wondering if my passive approach to study (watching video and reading) was really the best tactic if my goal was not just to pass a test, but to really understand the materials and the field I was studying. Often the materials I mastered for the tests seemed to be gone from my head in short order afterwards, so was I really getting all I could out of it?
 
