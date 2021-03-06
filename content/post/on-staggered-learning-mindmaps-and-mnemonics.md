@@ -17,22 +17,22 @@ At the start of 2021, after a year of Covid craziness, I found myself ready for 
 
 While working on my Azure certifications, I would follow what you might call a "classic" method of preparing for the tests. I would spend a lot of time with an online course (or two), consuming videos on all the topics required for the exam, and at some point when I felt ready I would start doing practice tests.
 
-The way I used the practice tests is worth noting: as the questions on these tests usually provide a link to more information regarding the topic they cover, I would specifically spend my first attempt answering questions wrong and copying down all the "more information" links for review.
+The way I used the practice tests is worth noting: as the questions on these tests usually provide a link to more information regarding the topic they cover, I would specifically spend my first attempt answering questions wrong and copying down all the "more information" links for review. This was my way of identifying and filling gaps in my knowledge.
 
-Essentially this technique worked for me. However, while I generally passed the exams I took, I never really seemed to live up to my own expectations as far as the scores went. I had a feeling that, for the amount of time spent, I should be scoring higher. Or looking at it the other way around, I should be able to get these scores with less study time. I also started wondering if my passive approach to study (watching video and reading) was really the best tactic if my goal was not just to pass a test, but to really understand the materials and the field I was studying. Often the materials I mastered for the tests seemed to be gone from my head in short order afterwards, so was I really getting all I could out of it?
+Essentially this technique worked for me. However, while I generally passed the exams I took, I never really seemed to live up to my own expectations as far as the scores went. I had a feeling that, for the amount of time spent, I should be scoring higher. Or looking at it the other way around, I should be able to get these scores with less study time. I also started wondering if my passive approach to study (watching video and reading) was really the best tactic if my goal was not just to pass a test, but to really grasp the field I was studying. Often the materials I mastered for the tests seemed to be gone from my head in short order afterwards, so was I really getting all I could out of it?
 
-Regardless, I was ready to dive into AWS at the start of 2021. I had a training coming up at CloudSkills in March on the Solutions Architect path and I wanted to get the Cloud Practitioner cert under my belt in preparation. 
+Regardless, I was ready to dive into AWS at the start of 2021. I had a training coming up at CloudSkills on the Solutions Architect path and I wanted to get the Cloud Practitioner cert under my belt in preparation.
 
-It just so happens I had picked up a couple of audiobooks in the months prior and I was finding more time again to listen to them - I was no longer spending time in the car due to the lockdown (WFH, no more commute), so my backlog of audio-books and podcasts was growing out of control, but my daily walks were becoming longer again and I started bringing a pair of headsets with me.
+It just so happens I had picked up a couple of audiobooks in the months prior and I was finding more time again to listen to them - I was no longer spending time in the car due to the lockdown (WFH, no more commute), so my backlog of audio-books and podcasts had been growing out of control, but I had started re-prioritising my daily walks, so they were becoming longer again and I started bringing a pair of headsets with me.
 
-Specifically two books I "read" in this way are worth mentioning
+Specifically there are two books I "read" in this way that I want to mention:
 
-* "**Ultralearning**" by Scott H. Young, which chronicles the author's findings from years spent performing learning _feats_ such as learning 4 languages in a year to a high level of competency, or passing the equivalent of an MIT Computer Sciences degree in one year.
+* "**Ultralearning**" by Scott H. Young, which chronicles the author's findings on what he calls meta-cognition or meta-learning from years spent on projects such as learning 4 languages in a year to a high level of competency, or passing the equivalent of an MIT Computer Sciences degree in one year.
 * "**Make it Stick**" by Peter C. Brown et.al., an overview of recent discoveries in cognitive psychology and other disciplines, coupled with a set of concrete techniques for becoming more efficient learners.
 
-I had also previously read and greatly enjoyed Cal Newport's **"Deep Work"**, a book which essentially sparked my interest in the topic.
+I had also previously read and greatly enjoyed a number of Cal Newport's book. **"Deep Work"** is a book which essentially sparked my interest in the topics of focus and deliberate study.
 
-These books made me realise I could use this new set of certifications as an opportunity to experiment with a different learning style, applying what I was learning from the books, as I was learning it, and incorporating the advise and techniques they promote.
+While reading these books, I realised I could use this new set of certifications as an opportunity to experiment with a different learning style, applying what I was learning, as I was learning it, and incorporating the advise and techniques the books promote.
 
 # Disclaimer
 
