@@ -1,9 +1,10 @@
 blockquote > p {
   font-family: var(--serif);
   font-size: 1em;
+  border-left: 4px solid var(--accent);
+  padding: 0 0 0 20px;
+  margin: 0 0 20px 0;
   max-width: 880px !important;
-  padding-right: 100px;
-  padding-bottom: 0;
   width: 100%;
   margin: 0 auto;
   line-height: 1.32;
