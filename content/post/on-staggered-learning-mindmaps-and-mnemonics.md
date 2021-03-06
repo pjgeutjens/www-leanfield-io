@@ -32,7 +32,7 @@ I had also previously read and greatly enjoyed Cal Newport's **"Deep Work"**, a 
 
 # Disclaimer
 
-I want to take special care at this time to make two points to you, the reader, about the contents.
+I want to take special care at this time to make two points to you, the reader, about the contents of this article.
 
 1. Learning about learning is an ongoing discovery for me. I am still refining my methods and tweaking my habits to improve, based on results studying for exams. Therefore I do not pretend to have a magic recipe for ultra-efficient study, nor do I strive to tell you what to do when tackling exams and how to do it. I am only documenting my own findings and sharing them hoping others can benefit.
 2. I do not strive to spend the least amount of money possible on course materials in order to pass the exams. I still use online courses and preparation exams that often require me to pay. I have a PluralSight subscription and am a CloudSkills member and I regularly use paid preparation exam questions. While they are not essential in my opinion, they do offer benefits.
