@@ -11,7 +11,7 @@ draft: true
 ---
 # Introduction
 
-At the start of 2021, after a year of Covid craziness, I found myself ready for a new challenge. Prior to the lockdowns, I had been on a good roll studying the Microsoft Azure Cloud, getting certified as a developer, solutions architect and finally (reaching my personal goal) as a DevOps expert. I felt that it would be of value for me to extend my knowledge by adding a second cloud (AWS) to the mix. I was not only interested in extending my technical skills but perhaps even more keen to try to discern over-arching principles and practices in infrastructure design and application development that were not bound to a single Cloud.
+At the start of 2021, after a year of Covid-19 craziness, I found myself ready for a new challenge. Prior to the lockdowns, I had been on a good roll studying the Microsoft Azure Cloud, getting certified as a developer, solutions architect and finally (reaching my personal goal) as a DevOps expert. I felt that it would be of value for me to extend my knowledge by adding a second cloud (AWS) to the mix. I was not only interested in extending my technical skills but perhaps even more keen to try to discern over-arching principles and practices in infrastructure design and application development that were not bound to a single Cloud.
 
 # How I used to Study
 
@@ -23,23 +23,23 @@ Essentially this technique worked for me. However, while I generally passed the 
 
 Regardless, I was ready to dive into AWS at the start of 2021. I had a training coming up at CloudSkills on the Solutions Architect path and I wanted to get the Cloud Practitioner cert under my belt in preparation.
 
-It just so happens I had picked up a couple of audiobooks in the months prior and I was finding more time again to listen to them - I was no longer spending time in the car due to the lockdown (WFH, no more commute), so my backlog of audio-books and podcasts had been growing out of control, but I had started re-prioritising my daily walks, so they were becoming longer again and I started bringing a pair of headsets with me.
+It just so happens I had picked up a couple of audiobooks in the months prior and I was finding more time again to listen to them - I was no longer spending time in the car due to the lockdown (WFH, no more commute), so my backlog of audio-books and podcasts had been growing out of control, but I had started re-prioritising my daily walks, so they were becoming longer again and I started bringing my headphones with me.
 
 Specifically there are two books I "read" in this way that I want to mention:
 
 * "**Ultralearning**" by Scott H. Young, which chronicles the author's findings on what he calls meta-cognition or meta-learning from years spent on projects such as learning 4 languages in a year to a high level of competency, or passing the equivalent of an MIT Computer Sciences degree in one year.
-* "**Make it Stick**" by Peter C. Brown et.al., an overview of recent discoveries in cognitive psychology and other disciplines, coupled with a set of concrete techniques for becoming more efficient learners.
+* "**Make it Stick**" by Peter C. Brown et.al., an overview of recent discoveries in cognitive psychology and other disciplines, the last chapter adds a set of concrete techniques and tips for becoming more efficient learners/teachers.
 
-I had also previously read and greatly enjoyed a number of Cal Newport's book. **"Deep Work"** is a book which essentially sparked my interest in the topics of focus and deliberate study.
+I had also previously read and greatly enjoyed a number of Cal Newport's books. **"Deep Work"** is a book which essentially sparked my interest in the topics of focus and deliberate study.
 
-While reading these books, I realised I could use this new set of certifications as an opportunity to experiment with a different learning style, applying what I was learning, as I was learning it, and incorporating the advise and techniques the books promote.
+While reading and walking, I realised I could use this new set of certification exams I would prepare for as an opportunity to experiment with a different learning style, applying what I was learning, as I was learning it, and incorporating the advise and techniques the books promote.
 
 # Disclaimer
 
 I want to take special care at this time to make two points to you, the reader, about the contents of this article.
 
 1. Learning about learning is an ongoing discovery for me. I am still refining my methods and tweaking my habits to improve, based on results studying for exams. Therefore I do not pretend to have a magic recipe for ultra-efficient study, nor do I strive to tell you what to do when tackling exams and how to do it. I am only documenting my own findings and sharing them hoping others can benefit.
-2. I do not strive to spend the least amount of money possible on course materials in order to pass the exams. I still use online courses and preparation exams that often require me to pay. I have a PluralSight subscription and am a CloudSkills member and I regularly use paid preparation exam questions. While they are not essential in my opinion, they do offer benefits.
+2. I do not strive to spend the least amount of money possible on course materials in order to pass the exams. I still use online courses and preparation exams that often require me to pay. I have a PluralSight subscription and am a CloudSkills member and I regularly use paid preparation exam questions. While they are not essential, in my opinion they do offer benefits.
 
 # What I learned about learning
 
