@@ -5,7 +5,7 @@ authors:
 title: On Staggered Learning, Mindmaps and Mental Models
 excerpt: ''
 date: 2021-03-05T23:00:00+00:00
-hero: ''
+hero: "/images/studying_notes.jpeg"
 draft: true
 
 ---
