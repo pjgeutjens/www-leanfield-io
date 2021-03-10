@@ -67,7 +67,7 @@ I discovered a great tool in this endeavour in the use of mind-mapping software,
 
 I believe so strongly in the value of mindmapping, that I actually decided to share the mindmaps I am creating while studying for the AWS exams here. So if you are interested in these, go have a look on [https://mindmaps.leanfield.io](https://mindmaps.leanfield.io "https://mindmaps.leanfield.io")
 
-Mind you, while I do hope you will find value in these maps, I mainly share them as inspiration for you to create your own versions of these while studying. As I said, they are meant to represent YOUR mental model, so go ahead and have a go. I used the online tool at [draw.io](draw.io "draw.io")to create mine, but there are a ton of tools to help you here.
+Mind you, while I do hope you will find value in these maps, I mainly share them as inspiration for you to create your own versions of these while studying. As I said, they are meant to represent YOUR mental model, so go ahead and have a go. I used the online tool at [draw.io](draw.io "draw.io") to create mine, but there are a ton of tools to help you here.
 
 ![](/images/solutions-architect-associate-master.png)
 
