@@ -55,19 +55,21 @@ The way I used tests before was as a guideline for whether or not I was ready to
 
 This has changed. Today when I start a study session on a topic the first thing I do is look for some test questions to answer. It does not have to be a full practice exam or a set of 50 questions. No, I want about 5 specific questions on the topic I am about to study.
 
+![](/images/testing.png)
+
 You might ask why. Well, I use the questions to trigger what I call "conscious effort" contemplating the materials. I may not have studied it yet, but trying to answer a question up front will force me to consider existing knowledge, tie in things I learned earlier and all together be more attentive of what is being asked. Instead of just coasting through some questions because I know the answer, I have to look at the ask more closely and try to piece together an answer.
 
 I'll add that, if there are no ready-made questions available, I will try to come up with my own questions as soon as possible while studying. This not only gives me something to work with, but also ensures that I pick my own wording for the question so I don't fall into the trap of mistaking recognition for knowledge
 
 ## Mental Models and Mindmaps
 
-Learning new materials is all about building your own mental model of how things work. You create a presentation in your head of how you believe things are interconnected, how theory and practice fit together and how to execute certain tasks. Then as you continue to gather knowledge you either refine or challenge that internal model, adding details, re-ordering relations or completely tearing down certain sections in light of new information.
+Learning new materials is all about building your own mental model of how things work. You create a representation in your head of how you believe things are interconnected, how theory and practice fit together and how to execute certain tasks. Then as you continue to gather knowledge you either refine or challenge that internal model, adding details, re-ordering relations or completely tearing down certain sections in light of new information.
 
-I discovered a great tool in this endeavour in the use of mind-mapping software, as it allows me to create a physical manifestation of (parts of) my mental models. Not only does this give me a new way of viewing this information in a structured way, it also forces me to "re-encode" the incoming information, be it auditive, visual or tactile, into a new form of representation that I control. This breaks me away from the formatting of the source materials and immediately gives me an opportunity for reflection.
+I discovered a great tool in this endeavour in the use of mind-mapping software, as it allows me to create a physical manifestation of (parts of) my mental models. Not only does this give me a new way of viewing this information in a structured way, it also forces me to "re-encode" the incoming information -be it auditive, visual or tactile- into a new form of representation that I control. This breaks me away from the formatting of the source materials and immediately gives me an opportunity for reflection.
 
-I believe so strongly in the value of mindmapping, that I actually decided to share the mindmaps I am creating while studying for the AWS exams here. So if you are interested in these, go have a look on [https://mindmaps.leanfield.io](https://mindmaps.leanfield.io "https://mindmaps.leanfield.io")
+I believe so strongly in the value of mind-mapping, that I actually decided to share the mind-maps I am creating while studying for the AWS exams here. So if you are interested in these, go have a look on [https://mindmaps.leanfield.io](https://mindmaps.leanfield.io "https://mindmaps.leanfield.io")
 
-Mind you, while I do hope you will find value in these maps, I mainly share them as inspiration for you to create your own versions of these while studying. As I said, they are meant to represent YOUR mental model, so go ahead and have a go. I used the online tool at [draw.io](draw.io "draw.io") to create mine, but there are a ton of tools to help you here.
+Mind you, while I do hope you will find value in these maps, I mainly share them as inspiration for you to create your own versions of these while studying. As I said, they are meant to represent YOUR mental model, so go ahead and give it a go. I used the online tool at [draw.io](draw.io "draw.io") to create mine, but there are a ton of tools to help you here.
 
 ![](/images/solutions-architect-associate-master.png)
 
