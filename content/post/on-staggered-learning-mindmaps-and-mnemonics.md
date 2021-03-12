@@ -52,7 +52,11 @@ I came to the conclusion that to be an expert Cloud Architect is not about being
 
 standard studying methods, re-reading and highlighting texts, watching videos etc can give you the feeling of knowing a set of materials just because you are becoming familiar with the text where they are presented.
 
-Have you ever had the feeling while reading a new text during study that everything in it made perfect sense, and that you really kind of already know this just because it's all perfectly logical? this is a trap
+Have you ever had the feeling while reading a new text during study that everything in it made perfect sense, and that you really kind of already know this just because it's all perfectly logical? this is a trap.
+
+## Retrieval is Key
+
+successfully retrieving knowledge strengthens neural pathways, making it easier the next time.
 
 ## Testing Early
 
@@ -85,6 +89,10 @@ Mind you, while I do hope you will find value in these maps, I mainly share them
 vs
 
 ![](/images/staggered-learning.png)
+
+## Mnemonics
+
+from Fight Dr McPXZ to memory palaces
 
 # The new Routine
 
