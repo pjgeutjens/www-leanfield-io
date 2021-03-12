@@ -6,7 +6,6 @@ title: On Staggered Learning, Mindmaps and Mental Models
 excerpt: ''
 date: 2021-03-05T23:00:00+00:00
 hero: "/images/studying_notes.jpeg"
-draft: true
 
 ---
 # Introduction
@@ -42,6 +41,12 @@ I want to take special care at this time to make two points to you, the reader, 
 2. I do not strive to spend the least amount of money possible on course materials in order to pass the exams. I still use online courses and preparation exams that often require me to pay. I have a PluralSight subscription and am a CloudSkills member and I regularly use paid preparation exam questions. While they are not essential, in my opinion they do offer benefits.
 
 # What I learned about learning
+
+In this section I will try to outline the main lessons I learned about studying efficiently. The first point I would like to make is this: I realised that there can be a big difference between knowing a subject and testing well on it. 
+
+Look at it this way: do you believe someone who can name all the European nations' capitals and can give you the start- and end-dates of all major conflicts, to be an expert on European history? No, right? Expertise requires a more intimite level of knowledge than trivia and dates, right? 
+
+I came to the conclusion that to be an expert Cloud Architect is not about being able to answer questions right, it's about being comfortable executing tasks in an environment, about comparing options given certain scenario's and about designing solution given the cloud services available. So how do we get there? Well, there here are some key points to keep in mind.
 
 ## Learning Should be Hard
 
