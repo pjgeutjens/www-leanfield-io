@@ -77,18 +77,6 @@ You might ask why. Well, I use the questions to trigger what I call "conscious e
 
 I'll add that, if there are no ready-made questions available, I will try to come up with my own questions as soon as possible while studying. This not only gives me something to work with, but also ensures that I pick my own wording for the question so I don't fall into the trap we discussed earlier of mistaking recognition for knowledge
 
-## Mental Models and Mindmaps
-
-Learning new materials is all about building your own mental model of how things work. You create a representation in your head of how you believe things are interconnected, how theory and practice fit together and how to execute certain tasks. Then as you continue to gather knowledge you either refine or challenge that internal model, adding details, re-ordering relations or completely tearing down certain sections in light of new information.
-
-I discovered a great tool in this endeavour in the use of mind-mapping software, as it allows me to create a physical manifestation of (parts of) my mental models. Not only does this give me a new way of viewing this information in a structured way, it also forces me to "re-encode" the incoming information -be it auditive, visual or tactile- into a new form of representation that I control. This breaks me away from the formatting of the source materials and immediately gives me an opportunity for reflection.
-
-I believe so strongly in the value of mind-mapping, that I actually decided to share the mind-maps I am creating while studying for the AWS exams here. So if you are interested in these, go have a look on [https://mindmaps.leanfield.io](https://mindmaps.leanfield.io "https://mindmaps.leanfield.io")
-
-Mind you, while I do hope you will find value in these maps, I mainly share them as inspiration for you to create your own versions of these while studying. As I said, they are meant to represent YOUR mental model, so go ahead and give it a go. I used the online tool at [draw.io](draw.io "draw.io") to create mine, but there are a ton of tools to help you here.
-
-![](/images/solutions-architect-associate-master.png)
-
 ## Staggered Learning
 
 See if this looks familiar. I have made a high level list of the table of contents of two online prep courses for the AWS Solutions Architect exam. They look roughly like this
@@ -120,6 +108,20 @@ As it turns out, research has shown that organising effort into short, varied bu
 Unfortunately this method of staggered learning does not intuitively feel like the best approach. While studying it can often feel like more effort is required and you're having a harder time in general. But remember, learning should be hard, so armed with a bit of background information, perhaps you can give it a try, breaking up your studies into short and varied activities.
 
 Another aspect of staggered learning is overall study duration and spacing. Studies have shown that spending one hour a day, every day is more effective than spending 8 hours on a Saturday immersed in your books. So try to go for regular, shorter intervals rather than the big weekend cram.
+
+## Mental Models and Mindmaps
+
+Learning new materials is all about building your own mental model of how things work. You create a representation in your head of how you believe things are interconnected, how theory and practice fit together and how to execute certain tasks. Then as you continue to gather knowledge you either refine or challenge that internal model, adding details, re-ordering relations or completely tearing down certain sections in light of new information.
+
+I discovered a great tool in this endeavour in the use of mind-mapping software, as it allows me to create a physical manifestation of (parts of) my mental models. Not only does this give me a new way of viewing this information in a structured way, it also forces me to "re-encode" the incoming information -be it auditive, visual or tactile- into a new form of representation that I control. This breaks me away from the formatting of the source materials and immediately gives me an opportunity for reflection.
+
+I believe so strongly in the value of mind-mapping, that I actually decided to share the mind-maps I am creating while studying for the AWS exams here. So if you are interested in these, go have a look on [https://mindmaps.leanfield.io](https://mindmaps.leanfield.io "https://mindmaps.leanfield.io")
+
+Mind you, while I do hope you will find value in these maps, I mainly share them as inspiration for you to create your own versions of these while studying. As I said, they are meant to represent YOUR mental model, so go ahead and give it a go. I used the online tool at [draw.io](draw.io "draw.io") to create mine, but there are a ton of tools to help you here.
+
+![](/images/solutions-architect-associate-master.png)
+
+## 
 
 ## Mnemonics
 
