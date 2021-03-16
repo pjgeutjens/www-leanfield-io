@@ -79,7 +79,7 @@ I'll add that, if there are no ready-made questions available, I will try to com
 
 ## Staggered Learning
 
-See if this looks familiar. I have made a high level list of the table of contents of two online prep courses for the AWS Solutions Architect exam. They look roughly like this
+See if this looks familiar. I have made a high level list of the table of contents of two online prep courses for the AWS Solutions Architect exam. They look roughly like this:
 
 * IAM and S3
 * EC2
@@ -88,6 +88,8 @@ See if this looks familiar. I have made a high level list of the table of conten
 * Route 53
 * VPCs
 * ...
+
+And like this:
 
 * Fundamentals : IAM and EC2
 * HA and Scaling: ELB and ASG
@@ -134,4 +136,4 @@ My advice is simple: use mnemonics where applicable. I use them whenever I can. 
 
 # What's Next?
 
-# 
+#
