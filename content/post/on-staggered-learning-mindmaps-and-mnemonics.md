@@ -89,7 +89,6 @@ See if this looks familiar. I have made a high level list of the table of conten
 * VPCs
 * ...
 
-
 * Fundamentals : IAM and EC2
 * HA and Scaling: ELB and ASG
 * Storage: EBS and EFS
