@@ -11,11 +11,8 @@ module:
     - path: "github.com/forestryio/hugo-theme-novela"
 paginate: 6
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
+  twitter: "https://twitter.com/PJGeutjens"
+  github: "https://github.com/pjgeutjens"
+  linkedin: "https://www.linkedin.com/in/pieterjangeutjens/"
 taxonomies:
   author: authors
