@@ -43,9 +43,9 @@ I want to take special care at this time to make two points to you, the reader, 
 
 # What I learned about learning
 
-In this section I will try to outline the main lessons I learned about studying efficiently. The first point I would like to make is this: I realised that there can be a big difference between knowing a subject and testing well on it. 
+In this section I will try to outline the main lessons I learned about studying efficiently. The first point I would like to make is this: I realised that there can be a big difference between knowing a subject and testing well on it.
 
-Look at it this way: do you believe someone who can name all the European nations' capitals and can give you the start- and end-dates of all major conflicts, to be an expert on European history? No, right? Expertise requires a more intimite level of knowledge than trivia and dates, right? 
+Look at it this way: do you believe someone who can name all the European nations' capitals and can give you the start- and end-dates of all major conflicts, to be an expert on European history? No, right? Expertise requires a more intimite level of knowledge than trivia and dates, right?
 
 I came to the conclusion that to be an expert Cloud Architect is not about being able to answer questions right, it's about being comfortable executing tasks in an environment, about comparing options given certain scenario's and about designing solution given the cloud services available. So how do we get there? Well, there here are some key points to keep in mind.
 
@@ -53,15 +53,19 @@ I came to the conclusion that to be an expert Cloud Architect is not about being
 
 standard studying methods, re-reading and highlighting texts, watching videos etc can give you the feeling of knowing a set of materials just because you are becoming familiar with the text where they are presented.
 
-Have you ever had the feeling while reading a new text during study that everything in it made perfect sense, and that you really kind of already know this just because it's all perfectly logical? this is a trap.
+Have you ever had the feeling while reading a new text during study that everything in it made perfect sense, and that you really kind of already know this just because it's all perfectly logical? this is a trap. What you may actually be becoming familiar with is the wording of the text you are reading, the sentences, paragraphs, sections and headings, more than the actual materials presented. In order to avoid this, I have strived to become a more active learner.
 
 ## Retrieval is Key
 
-successfully retrieving knowledge strengthens neural pathways, making it easier the next time.
+The key to learning is the ability to quickly and accurately retrieve a piece of information from your memory. Whether it's remembering what the capital of Poland is, or listing the five pillars of the AWS Well Architected Framework and their key principles, you are trying to walk the neural pathways in your brain to bring the correct piece of information to the front.
+
+Studies have shown that the act of successfully retrieving information will strengthen the neural pathway involved, making the next attempt at retrieval a little easier and faster, so learning in effect is like traveling a road in your mind, making it from a shallow track into a well traveled road. 
+
+The implication this has on study strategy is that simple repeated intake or information through your senses is not sufficient. There has to be an active component involved where you answer a question or solve a problem that involves the desired knowledge. Only through activating your brain, going in and getting what you need to be successful will the path become more traveled. This means that simply reading and re-reading a text, or watching a video course, in itself is not enough, you should be actively traveling the roads of your memory as often as needed to keep the information fresh, and as soon as possible.
 
 ## Testing Early
 
-The way I used tests before was as a guideline for whether or not I was ready to take a test. As I mentioned earlier I would cram and consume materials, and then only when I felt like I was almost ready would I start taking practice tests. The goal at that point was to check what I knew and to identify gaps that needed revision.
+The way I used tests before was as a guideline for whether or not I was ready to sit an exam. As I mentioned earlier I would cram and consume materials, and then only when I felt like I was almost ready would I start taking practice tests. The goal at that point was to check what I knew and to identify gaps that needed revision.
 
 This has changed. Today when I start a study session on a topic the first thing I do is look for some test questions to answer. It does not have to be a full practice exam or a set of 50 questions. No, I want about 5 specific questions on the topic I am about to study.
 
@@ -85,18 +89,46 @@ Mind you, while I do hope you will find value in these maps, I mainly share them
 
 ## Staggered Learning
 
+See if this looks familiar. I have made a high level list of the table of contents of two online prep courses for the AWS Solutions Architect exam. They look roughly like this
+
+* IAM and S3
+* EC2
+* Databases on AWS
+* Advanced IAM
+* Route 53
+* VPCs
+* ...
+
+
+* Fundamentals : IAM and EC2
+* HA and Scaling: ELB and ASG
+* Storage: EBS and EFS
+* Route 53
+* S3
+* ...
+
+Each section is between 30 minutes and several hours in length. When starting one of these courses I assume I was not the exception when I would start at chapter 1, go through it completely, move on to chapter 2, then 3 and so on.. Often each section would consist of theory first, then some labs, often finishing with a practice test to see if I remember what I am supposed to learn. I would easily spend multiple hours this way studying one or maybe two subjects, in succession. This is illustrated in the table below.
+
 ![](/images/stacked-learning.png)
 
-vs
+As it turns out, research has shown that organising effort into short, varied bursts of study on a mix of subjects has a positive effect on retention. So instead of starting with topic A, spending a few hours on theory, labs, testing, and then moving on to topic B for more of the same, it has value to interleave subjects A, B, C more quickly. Starting perhaps with an early set of trigger questions on A, a short text, then a video on subject C followed by a lab on topic B. A path not unlike the one shown below.
 
 ![](/images/staggered-learning.png)
 
+Unfortunately this method of staggered learning does not intuitively feel like the best approach. While studying it can often feel like more effort is required and you're having a harder time in general. But remember, learning should be hard, so armed with a bit of background information, perhaps you can give it a try, breaking up your studies into short and varied activities.
+
+Another aspect of staggered learning is overall study duration and spacing. Studies have shown that spending one hour a day, every day is more effective than spending 8 hours on a Saturday immersed in your books. So try to go for regular, shorter intervals rather than the big weekend cram.
+
 ## Mnemonics
 
-from Fight Dr McPXZ to memory palaces
+I am sure many of my readers are familiar with mister _Roy G. Biv_. For those of you who are not native English speakers, I am quite sure you will know one of his close relatives (like his Dutch cousin Rog). Roy G Biv is a mnemonic for remembering the colours of a rainbow in order (Red, Orange, Yellow, Green, etc..).
 
-# The new Routine
+A mnemonic, derived from the Ancient Greek word μνημονικός (mnēmonikos), meaning 'of memory' or 'relating to memory', is a device, tool or pattern designed to assist in remembering information. They can go from simple names like Roy from before, over little rhymes to remember important dates in history or the number of days in each month, to entire virtual walks through an imagined space in your head filled with objects and people representing information, so-called memory palaces.
+
+My advice is simple: use mnemonics where applicable. I use them whenever I can. As there are many types of mnemonics suitable for "encoding" different kinds of information, giving a complete overview here would take us way beyond the scope of this article. I will settle today for putting them on your radar as a great tool and encouraging you to do some research and to actively look for ways to use mnemonics to help you in your studies.
+
+# Conclusion
 
 # What's Next?
 
-# Conclusion
+# 
