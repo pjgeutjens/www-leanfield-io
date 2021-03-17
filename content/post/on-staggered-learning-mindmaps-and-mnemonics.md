@@ -40,7 +40,7 @@ While reading and walking, I realized I could use this new set of certification 
 I want to take special care at this time to make two points to you, the reader, about the contents of this article.
 
 1. Learning about learning is an ongoing discovery. I am still refining my methods and tweaking my habits to improve, based on results studying for exams. Therefore I do not pretend to have a magic recipe for ultra-efficient study, nor do I strive to tell you what to do when tackling exams and how to do it. I am only documenting my own findings and sharing them hoping others can benefit.
-2. I do not strive to spend the least amount of money possible on course materials in order to pass the exams. I still use online courses and preparation exams that often require me to pay. I have a PluralSight subscription and am a CloudSkills member and I regularly use paid preparation exam questions. While they are not essential, in my opinion they do offer benefits.
+2. I do not strive to spend the least amount of money possible on course materials in order to pass the exams. I still use online courses and preparation exams that often require me to pay. I pay for a PluralSight subscription and am a CloudSkills member. I regularly use paid preparation exam questions. While they are not essential, in my opinion they do offer benefits.
 
 # What I learned about learning
 
@@ -52,15 +52,15 @@ I came to the conclusion that being an expert Cloud Architect is not only about 
 
 ## Learning Should be Hard
 
-Standard studying methods, re-reading and highlighting texts, watching videos etc. can give you the feeling of knowing a set of materials too quickly. Have you ever had the feeling while reading a new text during study that everything in it made perfect sense? That you really kind of already know this because it's all perfectly logical? This is a trap. 
+Standard studying methods, re-reading and highlighting texts, watching videos etc. can give you the feeling of knowing a set of materials too quickly. Did you ever get the feeling while reading a new text during study that everything in it made perfect sense? That you really kind of already know this because it's all perfectly logical? This is a trap. 
 
-What happens is you become familiar with the wording of the text, the sentences, paragraphs, sections and headings, rather than the actual materials presented. In order to avoid this, I have strived to become a more active learner.
+What happens is you become familiar with the wording of the text, the sentences, paragraphs, sections and headings, rather than the actual materials presented. In order to avoid this, I strived to become a more active learner.
 
 ## Retrieval is Key
 
 Learning is the process of storing and accurately retrieving a piece of information from your memory. Whether it's remembering the capital of Poland, or listing the five pillars of the AWS Well Architected Framework and their key principles, you are trying to walk the neural pathways in your brain to bring the correct piece of information to the surface.
 
-Studies have shown that the act of successfully retrieving information will strengthen the neural pathway involved, making the next attempt at retrieval a little easier and faster. So learning in effect is like repeatedly traveling a road in your mind, transforming it from a shallow dirt track into an information super-highway racing through your brain.
+Studies show that the act of successfully retrieving information will strengthen the neural pathway involved, making the next attempt at retrieval a little easier and faster. So learning in effect is like repeatedly traveling a road in your mind, transforming it from a shallow dirt track into an information super-highway racing through your brain.
 
 The implication this has on study strategy is that simple repeated intake or information through your senses is not sufficient. There has to be an active component involved where you answer a question or solve a problem that involves the desired knowledge. Only through diving into your memory and rooting around for the answer will the path become more traveled. This means that simply reading and re-reading a text, or watching a video course, in itself is not enough. You should be actively traveling your memory pathways as often as needed to keep the information fresh, and start doing this as soon as possible.
 
@@ -68,17 +68,17 @@ The implication this has on study strategy is that simple repeated intake or inf
 
 The way I used tests before was as a guideline for whether or not I was ready to sit an exam. I'd cram and consume materials, and then only when I felt like I was almost ready would I start taking practice tests. The goal at that point was to check what I knew and to identify gaps that needed revision.
 
-This has changed. Today when I start a study session on a topic the first thing I do is look for some test questions to answer. It does not have to be a full practice exam or a set of 50 questions. No, I want about 5 specific questions on the topic I am about to study.
+This has changed. Today when I start a study session on a topic the first thing I do is look for some test questions to answer. It does not need to be a full practice exam or a set of 50 questions. I want about 5 specific questions on the topic I am about to study.
 
 ![image alt >](/images/testing.png)
 
-You might ask why. Well, I use the questions to trigger what you might call _conscious effort_ contemplating the materials. I may not have studied it yet, but trying to answer a question up front will force me to consider existing knowledge, tie in things I learned earlier and all together be more attentive of what is being asked. Instead of just coasting through some questions because I know the answer, I have to look at the ask more closely and try to piece together an answer.
+You might ask why. Well, I use the questions to trigger what you might call _conscious effort_ contemplating the materials. I may not have studied it yet, but trying to answer a question up front will force me to consider existing knowledge, tie in things I learned earlier and all together be more attentive of what is being asked. Instead of just coasting through some questions because I know the answer, I must look at the ask more closely and try to piece together an answer.
 
 I'll add that, if there are no ready-made questions available, I will try to come up with my own questions as soon as possible while studying. This not only gives me something to work with, but also ensures that I pick my own wording for the question so I don't fall into the trap we discussed earlier of mistaking recognition for knowledge.
 
 ## Staggered Learning
 
-See if this sounds familiar: I have made a high level list of the table of contents of two online prep courses for the AWS Solutions Architect exam. They look roughly like this:
+See if this sounds familiar: I made a high level list of the table of contents of two online prep courses for the AWS Solutions Architect exam. They look roughly like this:
 
 * IAM and S3
 * EC2
@@ -115,7 +115,7 @@ Learning new materials is all about building your own mental model of how things
 
 I discovered a great tool in this endeavor in the use of mind-mapping software, as it allows me to create a physical manifestation of (parts of) my mental models. Not only does this give me a new way of viewing this information in a structured way, it also forces me to "re-encode" the incoming information - be it auditive, visual or tactile - into a new form of representation that I control. This breaks me away from the formatting of the source materials and immediately gives me an opportunity for reflection.
 
-![image alt <](/images/solutions-architect-associate-master.png) I believe so strongly in the value of mind-mapping, that I actually decided to share the mind-maps I am creating while studying for the AWS exams. So if you are interested in these, go have a look on [https://mindmaps.leanfield.io](https://mindmaps.leanfield.io "https://mindmaps.leanfield.io")
+![image alt <](/images/solutions-architect-associate-master.png) I believe so strongly in the value of mind-mapping, that I actually decided to share the mind-maps I am creating while studying for the AWS exams. So if you are interested in these, head over to [https://mindmaps.leanfield.io](https://mindmaps.leanfield.io "https://mindmaps.leanfield.io")
 
 Mind you, while I do hope you will find value in these maps, I mainly share them as inspiration for you to create your own versions of these while studying. As I said, they are meant to represent _YOUR_ mental model, so go ahead and give it a go. There are a ton of options to help you create the maps, I used the online tool at [draw.io](draw.io "draw.io") to create mine.
 
