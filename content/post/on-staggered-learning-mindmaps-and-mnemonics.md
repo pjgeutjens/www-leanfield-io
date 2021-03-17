@@ -22,7 +22,7 @@ The way I used the practice tests is worth noting: as the questions on these tes
 
 Essentially this technique worked for me. However, while I generally passed the exams I took, I never really seemed to live up to my own expectations as far as the scores went. I had a feeling that, for the amount of time spent, I should be scoring higher. Or looking at it the other way around, I should be able to get these scores with less study time. I also started wondering if my passive approach to study (watching video and reading) was really the best tactic if my goal was not just to pass a test, but to really grasp the field I was studying. Often the materials I mastered for the tests seemed to be gone from my head soon after, so was I really getting all I could out of it?
 
-Regardless, I was ready to dive into AWS at the start of 2021. I had a training coming up at CloudSkills on the Solutions Architect path and I wanted to get the Cloud Practitioner cert under my belt in preparation.
+Regardless, I was ready to dive into AWS at the start of 2021. I had a training coming up at CloudSkills on the Solutions Architect path and I wanted to get the Cloud Practitioner certification under my belt in preparation.
 
 It just so happens I had picked up a couple of audiobooks in the months prior and I was finding more time again to listen to them - I was no longer spending time in the car due to the lockdown, so my backlog of audio-books and podcasts had been growing out of control - I had started re-prioritizing my daily walks, so as they were becoming regular again I started bringing my headphones with me.
 
