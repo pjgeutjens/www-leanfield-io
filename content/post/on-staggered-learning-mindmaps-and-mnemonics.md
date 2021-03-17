@@ -26,7 +26,7 @@ Essentially this technique worked for me. However, while I generally passed the 
 
 Regardless, I was ready to dive into AWS at the start of 2021. I had a training coming up at CloudSkills on the Solutions Architect path and I wanted to get the Cloud Practitioner cert under my belt in preparation.
 
-It just so happens I had picked up a couple of audiobooks in the months prior and I was finding more time again to listen to them - I was no longer spending time in the car due to the lockdown, so my backlog of audio-books and podcasts had been growing out of control - but I had started re-prioritising my daily walks, so they were becoming longer again and I started bringing my headphones with me.
+It just so happens I had picked up a couple of audiobooks in the months prior and I was finding more time again to listen to them - I was no longer spending time in the car due to the lockdown, so my backlog of audio-books and podcasts had been growing out of control - but I had started re-prioritizing my daily walks, so they were becoming longer again and I started bringing my headphones with me.
 
 Specifically there are two books I "read" in this way that I want to mention:
 
