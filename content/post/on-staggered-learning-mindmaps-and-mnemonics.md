@@ -33,7 +33,7 @@ Specifically there are two books I "read" this way that I want to mention:
 
 I had also previously read and greatly enjoyed a number of _Cal Newport_'s books. **"Deep Work"** is a book which essentially sparked my interest in the topics of focus and deliberate study.
 
-While reading and walking, I realized I could use this new set of certification exams as an opportunity to experiment with a different learning style, applying what I was learning, as I was learning it, and incorporating the advise and techniques the books promote.
+While reading and walking, I realized I could use this new set of certification exams as an opportunity to experiment with a different learning style. I could apply what I was learning, while I was learning it, and incorporate the advise and techniques the books promote.
 
 # Disclaimer
 
