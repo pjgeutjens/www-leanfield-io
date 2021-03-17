@@ -54,11 +54,11 @@ I came to the conclusion that being an expert Cloud Architect is not only about 
 
 Standard studying methods, re-reading and highlighting texts, watching videos etc. can give you the feeling of knowing a set of materials too quickly. Have you ever had the feeling while reading a new text during study that everything in it made perfect sense? That you really kind of already know this because it's all perfectly logical? This is a trap. 
 
-you may actually be becoming familiar with is the wording of the text you are reading, the sentences, paragraphs, sections and headings, rather than the actual materials presented. In order to avoid this, I have strived to become a more active learner.
+What happens is you become familiar with the wording of the text, the sentences, paragraphs, sections and headings, rather than the actual materials presented. In order to avoid this, I have strived to become a more active learner.
 
 ## Retrieval is Key
 
-The key to learning is the ability to quickly and accurately retrieve a piece of information from your memory. Whether it's remembering what the capital of Poland is, or listing the five pillars of the AWS Well Architected Framework and their key principles, you are trying to walk the neural pathways in your brain to bring the correct piece of information to the front.
+Learning is the process of storing and accurately retrieving a piece of information from your memory. Whether it's remembering what the capital of Poland is, or listing the five pillars of the AWS Well Architected Framework and their key principles, you are trying to walk the neural pathways in your brain to bring the correct piece of information to the front.
 
 Studies have shown that the act of successfully retrieving information will strengthen the neural pathway involved, making the next attempt at retrieval a little easier and faster, so learning in effect is like repeatedly traveling a road in your mind, transforming it from a shallow dirt track into an information super-highway racing through your brain.
 
