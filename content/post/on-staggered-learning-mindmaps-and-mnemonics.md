@@ -74,11 +74,11 @@ This has changed. Today when I start a study session on a topic the first thing 
 
 You might ask why. Well, I use the questions to trigger what you might call _conscious effort_ contemplating the materials. I may not have studied it yet, but trying to answer a question up front will force me to consider existing knowledge, tie in things I learned earlier and all together be more attentive of what is being asked. Instead of just coasting through some questions because I know the answer, I must look at the ask more closely and try to piece together an answer.
 
-I'll add that, if there are no ready-made questions available, I will try to come up with my own questions as soon as possible while studying. This not only gives me something to work with, but also ensures that I pick my own wording for the question so I don't fall into the trap we discussed earlier of mistaking recognition for knowledge.
+I'll add that, if there are no ready-made questions available, I will try to come up with my own as soon as possible while studying. This not only gives me something to work with, but also ensures that I pick my own wording for the question so I don't fall into the trap we discussed earlier of mistaking recognition for knowledge.
 
 ## Staggered Learning
 
-See if this sounds familiar: I made a high level list of the table of contents of two online prep courses for the AWS Solutions Architect exam. They look roughly like this:
+See if this looks familiar: I made a high level list of the table of contents of two online prep courses for the AWS Solutions Architect exam. They shape up roughly like this:
 
 * IAM and S3
 * EC2
@@ -97,7 +97,7 @@ And like this:
 * S3
 * ...
 
-Each section is between 30 minutes and several hours in length. When starting one of these courses I assume I was not the exception when I would start at chapter 1, go through it completely, move on to chapter 2, then 3 and so on.. Generally speaking each section consisted of theory, perhaps followed by some labs, often finishing with a practice test to see if I remembered what I am supposed to learn. I often spent multiple hours of uninterrupted study this way covering one or maybe two subjects, in succession. This is illustrated in the table below.
+Each section is between 30 minutes and several hours in length. When studying these courses I would start at chapter 1, go through it completely, move on to chapter 2, then 3 and so on.. I assume this approach was not exceptional. Generally speaking each section consisted of theory, perhaps followed by some labs, often finishing with a practice test to see if I remembered what I am supposed to learn. I often spent multiple hours of uninterrupted study this way covering one or maybe two subjects, in succession. This is illustrated in the table below.
 
 ![](/images/stacked-learning.png)
 
