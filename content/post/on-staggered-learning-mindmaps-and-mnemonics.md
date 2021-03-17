@@ -123,7 +123,7 @@ I believe so strongly in the value of mind-mapping, that I actually decided to s
 
 Mind you, while I do hope you will find value in these maps, I mainly share them as inspiration for you to create your own versions of these while studying. As I said, they are meant to represent YOUR mental model, so go ahead and give it a go. I used the online tool at [draw.io](draw.io "draw.io") to create mine, but there are a ton of tools to help you here.
 
-![](/images/solutions-architect-associate-master.png)
+![image alt <](/images/solutions-architect-associate-master.png)
 
 ## 
 
