@@ -64,7 +64,7 @@ In order to avoid this, I have strived to become a more active learner.
 
 The key to learning is the ability to quickly and accurately retrieve a piece of information from your memory. Whether it's remembering what the capital of Poland is, or listing the five pillars of the AWS Well Architected Framework and their key principles, you are trying to walk the neural pathways in your brain to bring the correct piece of information to the front.
 
-Studies have shown that the act of successfully retrieving information will strengthen the neural pathway involved, making the next attempt at retrieval a little easier and faster, so learning in effect is like repeatedly traveling a road in your mind, making it from a shallow dirt track into an information super-highway racing through your brain.
+Studies have shown that the act of successfully retrieving information will strengthen the neural pathway involved, making the next attempt at retrieval a little easier and faster, so learning in effect is like repeatedly traveling a road in your mind, transforming it from a shallow dirt track into an information super-highway racing through your brain.
 
 The implication this has on study strategy is that simple repeated intake or information through your senses is not sufficient. There has to be an active component involved where you answer a question or solve a problem that involves the desired knowledge. Only through activating your brain, going in and getting what you need to be successful will the path become more traveled. This means that simply reading and re-reading a text, or watching a video course, in itself is not enough, you should be actively traveling your memory pathways as often as needed to keep the information fresh, and as soon as possible.
 
