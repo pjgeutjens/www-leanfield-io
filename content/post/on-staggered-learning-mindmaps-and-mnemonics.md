@@ -44,7 +44,7 @@ I want to take special care at this time to make two points to you, the reader, 
 
 # What I learned about learning
 
-In this section I will try to outline the main lessons I learned about studying efficiently. The first point I'd like to make is this: there can be a big difference between knowing a subject and testing well on it.
+In this section I will try to outline the main lessons I learned about studying efficiently. The first point I'd like to make is this: there can be a big difference between mastering a subject and testing well on it.
 
 Look at it this way: do you believe someone who can name all the European nations' capitals and can give you the start- and end-dates of all major conflicts, to be an expert on European history? No, right? Expertise requires a more intimate level of knowledge than trivia and dates, right?
 
