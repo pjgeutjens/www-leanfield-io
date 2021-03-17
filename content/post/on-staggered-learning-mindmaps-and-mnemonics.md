@@ -1,5 +1,5 @@
 ---
-timeToRead: 5
+timeToRead: 13
 authors:
 - Pieter Jan Geutjens
 title: On Staggered Learning, Mindmaps and Mental Models
