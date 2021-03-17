@@ -16,7 +16,7 @@ At the start of 2021, after a year of Covid-19 craziness, I found myself ready f
 
 # How I used to Study
 
-While working on my Azure certifications, I would follow what you might call a "classic" method of preparing for the tests. I would spend a lot of time with an online course (or two), consuming videos on all the topics required for the exam, and at some point when I felt ready I would start doing practice tests.
+While working on my Azure certifications, I used what you might call a "classic" method of preparing for the tests. I spent a lot of time with an online course (or two), consuming videos on all the topics required for the exam, and at some point when I felt ready I would start doing practice tests.
 
 The way I used the practice tests is worth noting: as the questions on these tests usually provide a link to more information regarding the topic they cover, I would specifically spend my first attempt answering questions wrong and copying down all the "more information" links for review. This was my way of identifying and filling gaps in my knowledge.
 
