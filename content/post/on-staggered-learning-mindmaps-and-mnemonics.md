@@ -18,7 +18,7 @@ At the start of 2021, after a year of Covid-19 craziness, I found myself ready f
 
 While working on my Azure certifications, I used what you might call a "classic" method of preparing for the tests. I spent a lot of time with an online course (or two), consuming videos on all the topics required for the exam, and at some point when I felt ready I'd start doing practice tests.
 
-The way I used the practice tests is worth noting: as the questions on these tests usually provide a link to more information regarding the topic they cover, I would specifically spend my first attempt answering questions wrong and copying down all the "more information" links for review. This was my way of identifying and filling gaps in my knowledge.
+The way I used the practice tests is worth noting: as the questions on these tests usually provide a link to more information regarding the topic they cover, I spent my first attempts answering questions wrong on purpose and copying down all the "_more information_" links for review. This was my way of identifying and filling gaps in my knowledge.
 
 Essentially this technique worked for me. However, while I generally passed the exams I took, I never really seemed to live up to my own expectations as far as the scores went. I had a feeling that, for the amount of time spent, I should be scoring higher. Or looking at it the other way around, I should be able to get these scores with less study time. I also started wondering if my passive approach to study (watching video and reading) was really the best tactic if my goal was not just to pass a test, but to really grasp the field I was studying. Often the materials I mastered for the tests seemed to be gone from my head in short order afterwards, so was I really getting all I could out of it?
 
@@ -44,7 +44,7 @@ I want to take special care at this time to make two points to you, the reader, 
 
 # What I learned about learning
 
-In this section I will try to outline the main lessons I learned about studying efficiently. The first point I would like to make is this: there can be a big difference between knowing a subject and testing well on it.
+In this section I will try to outline the main lessons I learned about studying efficiently. The first point I'd like to make is this: there can be a big difference between knowing a subject and testing well on it.
 
 Look at it this way: do you believe someone who can name all the European nations' capitals and can give you the start- and end-dates of all major conflicts, to be an expert on European history? No, right? Expertise requires a more intimate level of knowledge than trivia and dates, right?
 
@@ -68,7 +68,7 @@ The implication this has on study strategy is that simple repeated intake or inf
 
 ## Testing Early
 
-The way I used tests before was as a guideline for whether or not I was ready to sit an exam. I would cram and consume materials, and then only when I felt like I was almost ready would I start taking practice tests. The goal at that point was to check what I knew and to identify gaps that needed revision.
+The way I used tests before was as a guideline for whether or not I was ready to sit an exam. I'd cram and consume materials, and then only when I felt like I was almost ready would I start taking practice tests. The goal at that point was to check what I knew and to identify gaps that needed revision.
 
 This has changed. Today when I start a study session on a topic the first thing I do is look for some test questions to answer. It does not have to be a full practice exam or a set of 50 questions. No, I want about 5 specific questions on the topic I am about to study.
 
@@ -99,7 +99,7 @@ And like this:
 * S3
 * ...
 
-Each section is between 30 minutes and several hours in length. When starting one of these courses I assume I was not the exception when I would start at chapter 1, go through it completely, move on to chapter 2, then 3 and so on.. Generally speaking each section would consist of theory, perhaps followed by some labs, often finishing with a practice test to see if I remembered what I am supposed to learn. I would easily spend multiple hours this way studying one or maybe two subjects, in succession. This is illustrated in the table below.
+Each section is between 30 minutes and several hours in length. When starting one of these courses I assume I was not the exception when I would start at chapter 1, go through it completely, move on to chapter 2, then 3 and so on.. Generally speaking each section consisted of theory, perhaps followed by some labs, often finishing with a practice test to see if I remembered what I am supposed to learn. I often spent multiple hours of uninterrupted study this way covering one or maybe two subjects, in succession. This is illustrated in the table below.
 
 ![](/images/stacked-learning.png)
 
