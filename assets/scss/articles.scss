@@ -626,10 +626,14 @@ max-width: 58.5% !important;
 
 img[alt$=">"] {
   float: right;
+  max-width: 33%;
+  padding: 10px;
 }
 
 img[alt$="<"] {
   float: left;
+  max-width: 33%;
+  padding: 10px;
 }
 
 img[alt$="><"] {
