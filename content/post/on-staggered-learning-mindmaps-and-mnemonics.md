@@ -70,7 +70,7 @@ The implication this has on study strategy is that simple repeated intake or inf
 
 ## Testing Early
 
-The way I used tests before was as a guideline for whether or not I was ready to sit an exam. As I mentioned earlier I would cram and consume materials, and then only when I felt like I was almost ready would I start taking practice tests. The goal at that point was to check what I knew and to identify gaps that needed revision.
+The way I used tests before was as a guideline for whether or not I was ready to sit an exam. I would cram and consume materials, and then only when I felt like I was almost ready would I start taking practice tests. The goal at that point was to check what I knew and to identify gaps that needed revision.
 
 This has changed. Today when I start a study session on a topic the first thing I do is look for some test questions to answer. It does not have to be a full practice exam or a set of 50 questions. No, I want about 5 specific questions on the topic I am about to study.
 
