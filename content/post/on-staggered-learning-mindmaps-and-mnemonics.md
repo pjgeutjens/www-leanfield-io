@@ -28,7 +28,7 @@ Regardless, I was ready to dive into AWS at the start of 2021. I had a training 
 
 It just so happens I had picked up a couple of audiobooks in the months prior and I was finding more time again to listen to them - I was no longer spending time in the car due to the lockdown, so my backlog of audio-books and podcasts had been growing out of control - but I had started re-prioritizing my daily walks, so as they were becoming regular again I started bringing my headphones with me.
 
-Specifically there are two books I "read" in this way that I want to mention:
+Specifically there are two books I "read" this way that I want to mention:
 
 * "**Ultralearning**" by Scott H. Young, which chronicles the author's findings on what he calls meta-cognition or meta-learning from years spent on projects such as learning 4 languages in a year to a high level of competency, or passing the equivalent of an MIT Computer Sciences degree in one year.
 * "**Make it Stick**" by Peter C. Brown et.al., an overview of recent discoveries in cognitive psychology and other disciplines, the last chapter adds a set of concrete techniques and tips for becoming more efficient learners/teachers.
