@@ -8,7 +8,7 @@ excerpt: to be an expert Cloud Architect is not about being able to answer quest
   options given certain scenario's and about designing solution given the cloud services
   available. So how do we get there? Well, there here are some key points to keep
   in mind.
-date: 2021-03-05T23:00:00+00:00
+date: 2021-03-05T23:00:00.000+00:00
 hero: "/images/studying_notes.jpeg"
 
 ---
@@ -56,7 +56,7 @@ I came to the conclusion that to be an expert Cloud Architect is not about being
 
 standard studying methods, re-reading and highlighting texts, watching videos etc can give you the feeling of knowing a set of materials just because you are becoming familiar with the text where they are presented.
 
-Have you ever had the feeling while reading a new text during study that everything in it made perfect sense, and that you really kind of already know this just because it's all perfectly logical? This is a trap. What you may actually be becoming familiar with is the wording of the text you are reading, the sentences, paragraphs, sections and headings, rather than the actual materials presented. 
+Have you ever had the feeling while reading a new text during study that everything in it made perfect sense, and that you really kind of already know this just because it's all perfectly logical? This is a trap. What you may actually be becoming familiar with is the wording of the text you are reading, the sentences, paragraphs, sections and headings, rather than the actual materials presented.
 
 In order to avoid this, I have strived to become a more active learner.
 
@@ -129,7 +129,7 @@ Mind you, while I do hope you will find value in these maps, I mainly share them
 
 ## Mnemonics
 
-I am sure many of my readers are familiar with mister _Roy G. Biv_. For those of you who are not native English speakers, I am quite sure you will know one of his close relatives (like his Dutch cousin Rog). Roy G Biv is a mnemonic for remembering the colours of a rainbow in order (Red, Orange, Yellow, Green, etc..).
+I am sure many of my readers are familiar with mister _Roy G. Biv_. For those of you who are not native English speakers, I bet you mightl know one of his close relatives (like his Dutch cousin Rog). _ROY G BIV_ is a mnemonic for remembering the colours of a rainbow in order (Red, Orange, Yellow, Green, etc..).
 
 A mnemonic, derived from the Ancient Greek word μνημονικός (mnēmonikos), meaning 'of memory' or 'relating to memory', is a device, tool or pattern designed to assist in remembering information. They can go from simple names like Roy from before, over little rhymes to remember important dates in history or the number of days in each month, to entire virtual walks through an imagined space in your head filled with objects and people representing information, so-called memory palaces.
 
@@ -137,6 +137,6 @@ My advice is simple: use mnemonics where applicable. I use them whenever I can. 
 
 # Conclusion
 
-Here we are, I believe I have covered the most important lessons I have learned about learning. So far my results have been pretty good. I passed a first exam with a score over 95% and am working on my goal of gaining the DevOps Professional AWS certification. 
+Here we are, I believe I have covered the most important lessons I have learned about learning. So far my results have been pretty good. I passed a first exam with a score over 95% and am working on my goal of gaining the DevOps Professional AWS certification.
 
 As I mentioned at the start of this article, my goal in writing was not to sell a perfect solution for learning, only to share my own ongoing journey and perhaps inspire other learners to view their continuous learning as an opportunity to try out new techniques and experiment. So best of luck to you all!
