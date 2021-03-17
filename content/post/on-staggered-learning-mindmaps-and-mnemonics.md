@@ -122,9 +122,7 @@ I discovered a great tool in this endeavor in the use of mind-mapping software, 
 ![image alt <](/images/solutions-architect-associate-master.png)
 I believe so strongly in the value of mind-mapping, that I actually decided to share the mind-maps I am creating while studying for the AWS exams here. So if you are interested in these, go have a look on [https://mindmaps.leanfield.io](https://mindmaps.leanfield.io "https://mindmaps.leanfield.io")
 
-
 Mind you, while I do hope you will find value in these maps, I mainly share them as inspiration for you to create your own versions of these while studying. As I said, they are meant to represent YOUR mental model, so go ahead and give it a go. I used the online tool at [draw.io](draw.io "draw.io") to create mine, but there are a ton of tools to help you here.
-
 
 ## 
 
@@ -132,7 +130,7 @@ Mind you, while I do hope you will find value in these maps, I mainly share them
 
 I am sure many of my readers are familiar with mister _Roy G. Biv_. For those of you who are not native English speakers, I bet you might know one of his close relatives (like his Dutch cousin Rog). _ROY G BIV_ is a mnemonic for remembering the colours of a rainbow in order (Red, Orange, Yellow, Green, Blue, Indigo, Violet).
 
-A mnemonic, derived from the Ancient Greek word μνημονικός (mnēmonikos), meaning 'of memory' or 'relating to memory', is a device, tool or pattern designed to assist in remembering information. They can range from simple words or phrases, over little rhymes to remember important dates in history or the number of days in each month, to entire virtual walks through an imagined space in your head filled with objects and people representing information, so-called memory palaces.
+A mnemonic, derived from the Ancient Greek word μνημονικός (mnēmonikos), meaning 'of memory' or 'relating to memory', is a device, tool or pattern designed to assist in remembering information. Mnemonics can range from simple words or phrases, over little rhymes to remember important dates in history or the number of days in each month, to entire virtual walks through an imagined space in your head filled with objects and people representing information, so-called memory palaces.
 
 My advice is simple: use mnemonics where applicable. I use them whenever I can. As there are many types of mnemonics suitable for "encoding" different kinds of information, giving a complete overview here would take us way beyond the scope of this article. I will settle today for putting them on your radar as a great tool and encouraging you to do some research and to actively look for ways to use mnemonics to help you in your studies.
 
