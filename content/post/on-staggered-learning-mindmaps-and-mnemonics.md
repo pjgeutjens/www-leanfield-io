@@ -58,7 +58,7 @@ What happens is you become familiar with the wording of the text, the sentences,
 
 ## Retrieval is Key
 
-Learning is the process of storing and accurately retrieving a piece of information from your memory. Whether it's remembering what the capital of Poland is, or listing the five pillars of the AWS Well Architected Framework and their key principles, you are trying to walk the neural pathways in your brain to bring the correct piece of information to the surface.
+Learning is the process of storing and accurately retrieving a piece of information from your memory. Whether it's remembering the capital of Poland, or listing the five pillars of the AWS Well Architected Framework and their key principles, you are trying to walk the neural pathways in your brain to bring the correct piece of information to the surface.
 
 Studies have shown that the act of successfully retrieving information will strengthen the neural pathway involved, making the next attempt at retrieval a little easier and faster, so learning in effect is like repeatedly traveling a road in your mind, transforming it from a shallow dirt track into an information super-highway racing through your brain.
 
