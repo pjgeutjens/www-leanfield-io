@@ -48,7 +48,7 @@ I want to take special care at this time to make two points to you, the reader, 
 
 In this section I will try to outline the main lessons I learned about studying efficiently. The first point I would like to make is this: there can be a big difference between knowing a subject and testing well on it.
 
-Look at it this way: do you believe someone who can name all the European nations' capitals and can give you the start- and end-dates of all major conflicts, to be an expert on European history? No, right? Expertise requires a more intimite level of knowledge than trivia and dates, right?
+Look at it this way: do you believe someone who can name all the European nations' capitals and can give you the start- and end-dates of all major conflicts, to be an expert on European history? No, right? Expertise requires a more intimate level of knowledge than trivia and dates, right?
 
 I came to the conclusion that to be an expert Cloud Architect is not about being able to answer questions right, it's about being comfortable executing tasks in an environment, about comparing options given certain scenario's and about designing solution given the cloud services available. So how do we get there? Well, there here are some key points to keep in mind.
 
