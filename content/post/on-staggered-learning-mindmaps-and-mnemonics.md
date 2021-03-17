@@ -52,7 +52,7 @@ I came to the conclusion that being an expert Cloud Architect is not only about 
 
 ## Learning Should be Hard
 
-Standard studying methods, re-reading and highlighting texts, watching videos etc. can give you the feeling of knowing a set of materials too quickly. Did you ever get the feeling while reading a new text during study that everything in it made perfect sense? That you really kind of already know this because it's all perfectly logical? This is a trap. 
+Standard studying methods, re-reading and highlighting texts, watching videos etc. can give you the feeling of knowing a set of materials too quickly. Did you ever get the feeling while reading a new text during study that everything in it made perfect sense? That you really kind of already know this because it's all perfectly logical? This is a trap.
 
 What happens is you become familiar with the wording of the text, the sentences, paragraphs, sections and headings, rather than the actual materials presented. In order to avoid this, I strived to become a more active learner.
 
@@ -60,9 +60,9 @@ What happens is you become familiar with the wording of the text, the sentences,
 
 Learning is the process of storing and accurately retrieving a piece of information from your memory. Whether it's remembering the capital of Poland, or listing the five pillars of the AWS Well Architected Framework and their key principles, you are trying to walk the neural pathways in your brain to bring the correct piece of information to the surface.
 
-Studies show that the act of successfully retrieving information will strengthen the neural pathway involved, making the next attempt at retrieval a little easier and faster. So learning in effect is like repeatedly traveling a road in your mind, transforming it from a shallow dirt track into an information super-highway in your brain.
+Studies show that the act of successfully retrieving information will strengthen the neural pathway involved, making the next attempt at retrieval a little easier and faster. So learning in effect is like repeatedly traveling a road in your mind, transforming it from a shallow dirt track into an information super-highway.
 
-The implication on study strategy is that simple repeated intake or information through your senses is not sufficient. There has to be an active component involved where you answer a question or solve a problem that involves the desired knowledge. Only through diving into your memory and rooting around for the answer will the path become more traveled. This means that reading and re-reading a text, or watching a video course, in itself is not enough. You should be actively engaging your memory as often as needed to keep the information fresh, and start doing this as soon as possible.
+The implication on study strategy is that simple repeated intake or information through your senses is not sufficient. There has to be an active component involved where you answer a question or solve a problem that involves the desired knowledge. Only through diving into your memory and rooting around for the answer will the path become more traveled. This means that reading and re-reading a text, or watching a video course, in itself will not suffice. You should instead focus on actively engaging your memory as often as needed to keep the information fresh, and start doing this as soon as possible.
 
 ## Testing Early
 
