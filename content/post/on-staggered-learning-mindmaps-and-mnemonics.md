@@ -12,8 +12,6 @@ date: 2021-03-05T23:00:00.000+00:00
 hero: "/images/studying_notes.jpeg"
 
 ---
-# Introduction
-
 At the start of 2021, after a year of Covid-19 craziness, I found myself ready for a new challenge. Prior to the lockdowns, I had been on a good roll studying the Microsoft Azure Cloud, getting certified as a developer, solutions architect and finally (reaching my personal goal) as a DevOps expert. I felt that it would be of value for me to extend my knowledge by adding a second cloud (AWS) to the mix. I was not only interested in extending my technical skills but perhaps even more keen to try to discern over-arching principles and practices in infrastructure design and application development that were not bound to a single Cloud.
 
 # How I used to Study
