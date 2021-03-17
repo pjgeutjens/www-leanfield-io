@@ -3,7 +3,7 @@ timeToRead: 13
 authors:
 - Pieter Jan Geutjens
 title: On Staggered Learning, Mindmaps and Mental Models
-excerpt: to be an expert Cloud Architect is not about being able to answer questions
+excerpt: To be an expert Cloud Architect is not about being able to answer questions
   right, it's about being comfortable executing tasks in an environment, about comparing
   options given certain scenario's and about designing solution given the cloud services
   available. So how do we get there? Well, there here are some key points to keep
