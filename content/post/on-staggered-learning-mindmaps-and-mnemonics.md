@@ -105,7 +105,7 @@ Each section is between 30 minutes and several hours in length. When starting on
 
 ![](/images/stacked-learning.png)
 
-As it turns out, research has shown that organising effort into short, varied bursts of study on a mix of subjects has a positive effect on retention. So instead of starting with topic A, spending a few hours on theory, labs, testing, and then moving on to topic B for more of the same, it has value to interleave subjects A, B, C more quickly. Starting perhaps with an early set of trigger questions on A, a short text, then a video on subject C followed by a lab on topic B. A path not unlike the one shown below.
+As it turns out, research has shown that organizing effort into short, varied bursts of study on a mix of subjects has a positive effect on retention. So instead of starting with topic A, spending a few hours on theory, labs, testing, and then moving on to topic B for more of the same, it has value to interleave subjects A, B, C more quickly. Starting perhaps with an early set of trigger questions on A, a short text, then a video on subject C followed by a lab on topic B. A path not unlike the one shown below.
 
 ![](/images/staggered-learning.png)
 
