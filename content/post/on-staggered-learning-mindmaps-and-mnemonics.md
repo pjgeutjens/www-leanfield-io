@@ -30,8 +30,8 @@ It just so happens I had picked up a couple of audiobooks in the months prior an
 
 Specifically there are two books I "read" this way that I want to mention:
 
-* "**Ultralearning**" by Scott H. Young, which chronicles the author's findings on what he calls meta-cognition or meta-learning from years spent on projects such as learning 4 languages in a year to a high level of competency, or passing the equivalent of an MIT Computer Sciences degree in one year.
-* "**Make it Stick**" by Peter C. Brown et.al., an overview of recent discoveries in cognitive psychology and other disciplines, the last chapter adds a set of concrete techniques and tips for becoming more efficient learners/teachers.
+* "**Ultralearning**" by _Scott H. Young_, which chronicles the author's findings on what he calls meta-cognition or meta-learning from years spent on projects such as learning 4 languages in a year to a high level of competency, or passing the equivalent of an MIT Computer Sciences degree in one year.
+* "**Make it Stick**" by _Peter C. Brown et.al._, an overview of recent discoveries in cognitive psychology and other disciplines, the last chapter adds a set of concrete techniques and tips for becoming more efficient learners/teachers.
 
 I had also previously read and greatly enjoyed a number of Cal Newport's books. **"Deep Work"** is a book which essentially sparked my interest in the topics of focus and deliberate study.
 
