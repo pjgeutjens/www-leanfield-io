@@ -131,7 +131,7 @@ I am sure many of my readers are familiar with mister _Roy G. Biv_. For those of
 
 A mnemonic, derived from the Ancient Greek word μνημονικός (mnēmonikos), meaning 'of memory' or 'relating to memory', is a device, tool or pattern designed to assist in remembering information. Mnemonics can range from simple words or phrases, over little rhymes to remember important dates in history or the number of days in each month, to entire virtual walks through an imagined space in your head filled with objects and people representing information, so-called memory palaces.
 
-My advice is simple: use mnemonics where applicable. I use them whenever I can. As there are many types of mnemonics suitable for "encoding" different kinds of information, giving a complete overview here would take us way beyond the scope of this article. I will settle today for putting them on your radar as a great tool and encouraging you to do some research and to actively look for ways to use mnemonics to help you in your studies.
+My advice is simple: use mnemonics where applicable. I use them whenever I can. As there are many types of mnemonics suitable for _encoding_ different kinds of information, giving a complete overview here would take us way beyond the scope of this article. I will settle today for putting them on your radar as a great tool and encouraging you to do some research and to actively look for ways to use mnemonics to help you in your studies.
 
 # Conclusion
 
