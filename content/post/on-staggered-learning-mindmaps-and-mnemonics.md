@@ -82,7 +82,7 @@ I'll add that, if there are no ready-made questions available, I will try to com
 
 ## Staggered Learning
 
-See if this sounds familiar. I have made a high level list of the table of contents of two online prep courses for the AWS Solutions Architect exam. They look roughly like this:
+See if this sounds familiar: I have made a high level list of the table of contents of two online prep courses for the AWS Solutions Architect exam. They look roughly like this:
 
 * IAM and S3
 * EC2
