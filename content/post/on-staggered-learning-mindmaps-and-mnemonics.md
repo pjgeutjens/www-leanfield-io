@@ -33,7 +33,7 @@ Specifically there are two books I "read" this way that I want to mention:
 * "**Ultralearning**" by _Scott H. Young_, which chronicles the author's findings on what he calls meta-cognition or meta-learning from years spent on projects such as learning 4 languages in a year to a high level of competency, or passing the equivalent of an MIT Computer Sciences degree in one year.
 * "**Make it Stick**" by _Peter C. Brown et.al._, an overview of recent discoveries in cognitive psychology and other disciplines, the last chapter adds a set of concrete techniques and tips for becoming more efficient learners/teachers.
 
-I had also previously read and greatly enjoyed a number of Cal Newport's books. **"Deep Work"** is a book which essentially sparked my interest in the topics of focus and deliberate study.
+I had also previously read and greatly enjoyed a number of _Cal Newport_'s books. **"Deep Work"** is a book which essentially sparked my interest in the topics of focus and deliberate study.
 
 While reading and walking, I realised I could use this new set of certification exams I would prepare for as an opportunity to experiment with a different learning style, applying what I was learning, as I was learning it, and incorporating the advise and techniques the books promote.
 
