@@ -74,7 +74,7 @@ The way I used tests before was as a guideline for whether or not I was ready to
 
 This has changed. Today when I start a study session on a topic the first thing I do is look for some test questions to answer. It does not have to be a full practice exam or a set of 50 questions. No, I want about 5 specific questions on the topic I am about to study.
 
-![](/images/testing.png)
+![image alt >](/images/testing.png)
 
 You might ask why. Well, I use the questions to trigger what you might call _conscious effort_ contemplating the materials. I may not have studied it yet, but trying to answer a question up front will force me to consider existing knowledge, tie in things I learned earlier and all together be more attentive of what is being asked. Instead of just coasting through some questions because I know the answer, I have to look at the ask more closely and try to piece together an answer.
 
