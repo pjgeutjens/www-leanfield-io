@@ -76,7 +76,7 @@ This has changed. Today when I start a study session on a topic the first thing 
 
 ![](/images/testing.png)
 
-You might ask why. Well, I use the questions to trigger what I call "conscious effort" contemplating the materials. I may not have studied it yet, but trying to answer a question up front will force me to consider existing knowledge, tie in things I learned earlier and all together be more attentive of what is being asked. Instead of just coasting through some questions because I know the answer, I have to look at the ask more closely and try to piece together an answer.
+You might ask why. Well, I use the questions to trigger what you might call _conscious effort_ contemplating the materials. I may not have studied it yet, but trying to answer a question up front will force me to consider existing knowledge, tie in things I learned earlier and all together be more attentive of what is being asked. Instead of just coasting through some questions because I know the answer, I have to look at the ask more closely and try to piece together an answer.
 
 I'll add that, if there are no ready-made questions available, I will try to come up with my own questions as soon as possible while studying. This not only gives me something to work with, but also ensures that I pick my own wording for the question so I don't fall into the trap we discussed earlier of mistaking recognition for knowledge
 
