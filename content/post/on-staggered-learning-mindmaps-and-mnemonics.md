@@ -101,7 +101,7 @@ And like this:
 * S3
 * ...
 
-Each section is between 30 minutes and several hours in length. When starting one of these courses I assume I was not the exception when I would start at chapter 1, go through it completely, move on to chapter 2, then 3 and so on.. Often each section would consist of theory first, then some labs, often finishing with a practice test to see if I remember what I am supposed to learn. I would easily spend multiple hours this way studying one or maybe two subjects, in succession. This is illustrated in the table below.
+Each section is between 30 minutes and several hours in length. When starting one of these courses I assume I was not the exception when I would start at chapter 1, go through it completely, move on to chapter 2, then 3 and so on.. Generally speaking each section would consist of theory, perhaps followed by some labs, often finishing with a practice test to see if I remembered what I am supposed to learn. I would easily spend multiple hours this way studying one or maybe two subjects, in succession. This is illustrated in the table below.
 
 ![](/images/stacked-learning.png)
 
