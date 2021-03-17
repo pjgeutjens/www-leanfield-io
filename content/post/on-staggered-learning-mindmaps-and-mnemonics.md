@@ -52,7 +52,7 @@ I came to the conclusion that being an expert Cloud Architect is not only about 
 
 ## Learning Should be Hard
 
-Standard studying methods, re-reading and highlighting texts, watching videos etc. can give you the feeling of knowing a set of materials too quickly. Have you ever had the feeling while reading a new text during study that everything in it made perfect sense? That you really kind of already know this just because it's all perfectly logical? This is a trap. 
+Standard studying methods, re-reading and highlighting texts, watching videos etc. can give you the feeling of knowing a set of materials too quickly. Have you ever had the feeling while reading a new text during study that everything in it made perfect sense? That you really kind of already know this because it's all perfectly logical? This is a trap. 
 
 you may actually be becoming familiar with is the wording of the text you are reading, the sentences, paragraphs, sections and headings, rather than the actual materials presented. In order to avoid this, I have strived to become a more active learner.
 
