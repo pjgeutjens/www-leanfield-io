@@ -115,7 +115,7 @@ Another aspect of staggered learning is overall study duration and spacing. Rese
 
 ## Mental Models and Mindmaps
 
-Learning new materials is all about building your own mental model of how things work. You create a representation in your head of how you believe things are interconnected, how theory and practice fit together and how to execute certain tasks. Then as you continue to gather knowledge you either refine or challenge that internal model, adding details, re-ordering relations or completely tearing down certain sections in light of new information.
+Learning new materials is all about building your own mental model of how things work. You create a representation in your head of how you believe things are interconnected, how theory and practice fit together and how to execute certain tasks. Then, as you continue to gather knowledge, you either refine or challenge that internal model. This can mean adding details, re-ordering relations or completely tearing down certain sections in light of new information.
 
 I discovered a great tool in this endeavor in the use of mind-mapping software, as it allows me to create a physical manifestation of (parts of) my mental models. Not only does this give me a new way of viewing this information in a structured way, it also forces me to "re-encode" the incoming information -be it auditive, visual or tactile- into a new form of representation that I control. This breaks me away from the formatting of the source materials and immediately gives me an opportunity for reflection.
 
