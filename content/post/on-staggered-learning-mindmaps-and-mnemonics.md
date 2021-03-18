@@ -109,7 +109,7 @@ As it turns out, research shows that organising effort into short, varied bursts
 
 Unfortunately this method of _staggered learning_ does not intuitively feel like the best approach. While studying it often seemed like more effort was required and I was having a tougher time in general. But remember that learning should be hard. So armed with a bit of background information, perhaps you can give it a try and break up your studies into short and varied activities.
 
-Another aspect of staggered learning is overall study duration and spacing. Spending one hour a day, every day is more effective than spending 8 hours on a Saturday with your nose in the books. Try to go for regular, shorter intervals rather than the big weekend cram.
+Another aspect of staggered learning is overall study duration and spacing. Spending one hour a day, every day is more effective than spending 8 hours on a Saturday with your nose in the books. Try to go for regular, shorter intervals of focused work rather than the big weekend cram.
 
 ## Mental Models and Mindmaps
 
