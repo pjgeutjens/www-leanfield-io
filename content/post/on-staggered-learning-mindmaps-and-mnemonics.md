@@ -8,7 +8,7 @@ excerpt: To be an expert Cloud Architect is not about being able to answer quest
   options given certain scenario's and about designing solution given the cloud services
   available. So how do we get there? Well, there here are some key points to keep
   in mind.
-date: 2021-03-05T23:00:00.000+00:00
+date: 2021-03-15T08:00:00+00:00
 hero: "/images/studying_notes.jpeg"
 
 ---
