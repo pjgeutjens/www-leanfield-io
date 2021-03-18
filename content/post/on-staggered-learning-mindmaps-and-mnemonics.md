@@ -76,7 +76,7 @@ This has changed. Today when I start a study session on a topic the first thing 
 
 You might ask why. Well, I use the questions to trigger _conscious effort_ by contemplating the materials. I may not have studied it yet, but trying to answer a question up front will force me to consider existing knowledge, tie in things I learned earlier and all together be more attentive of what is being asked. Instead of just coasting through because I know the answer, I must look at the question more closely and try to piece together an answer.
 
-I'll add that, if there are no ready-made questions available, I will try to come up with my own as soon as possible while studying. This not only gives me something to work with, but also ensures that I pick my own wording for the question so I don't fall into the trap we discussed earlier of mistaking recognition for knowledge.
+I'll add that if there are no ready-made questions available, I will try to come up with my own as soon as possible while studying. This not only gives me something to work with, but also ensures that I pick my own wording for the question so I don't fall into the trap we discussed earlier of mistaking recognition for knowledge.
 
 ## Staggered Learning
 
