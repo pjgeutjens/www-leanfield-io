@@ -62,7 +62,7 @@ Learning is the process of storing and accurately retrieving a piece of informat
 
 Studies show that the act of successfully retrieving information will strengthen the neural pathway involved, making the next attempt at retrieval a little easier and faster. Learning in effect is like repeatedly traveling a road in your mind, transforming it from a shallow dirt track into an information super-highway.
 
-The implication on study strategy is that simple repeated intake or information through your senses is not sufficient. There has to be an active component where you answer a question or solve a problem that involves the desired knowledge. Only through diving into your memory and rooting around for the answer will the path become more traveled. This means that reading and re-reading a text, or watching a video course, in itself will not suffice. You should instead focus on actively engaging your memory as often as needed to keep the information fresh, and start doing this as soon as possible.
+The implication on study strategy is that simple repeated intake or information through your senses is not sufficient. There has to be an active component where you answer a question or solve a problem that builds on the desired knowledge. Only through diving into your memory and rooting around for the answer will the path become more traveled. This means that reading and re-reading a text, or watching a video course, in itself will not suffice. You should instead focus on actively engaging your memory as often as needed to keep the information fresh, and start doing this as soon as possible.
 
 ## Testing Early
 
