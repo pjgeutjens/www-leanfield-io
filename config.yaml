@@ -16,3 +16,8 @@ social:
   linkedin: "https://www.linkedin.com/in/pieterjangeutjens/"
 taxonomies:
   author: authors
+
+deployment:
+  targets:
+    - name: s3deployment
+      URL: 's3://www-leanfield-io?region=eu-central-1'
