@@ -8,11 +8,11 @@ excerpt: To be an expert Cloud Architect is not about being able to answer quest
   options given certain scenario's and about designing solution given the cloud services
   available. So how do we get there? Well, there here are some key points to keep
   in mind.
-date: 2021-03-15T08:00:00+00:00
+date: 2021-03-15T08:00:00.000+00:00
 hero: "/images/studying_notes.jpeg"
 
 ---
-At the start of 2021, after a year of Covid-19 craziness, I found myself ready for a new challenge. Prior to the lockdowns, I had been on a good roll studying the Microsoft Azure Cloud, getting certified as a developer, solutions architect and finally (reaching my personal goal) as a DevOps expert. I felt that it would be of value for me to extend my knowledge by adding a second cloud (AWS) to the mix. I was not only interested in extending my technical skills but perhaps even more keen to try to discern over-arching principles and practices in infrastructure design and application development that were not bound to a single Cloud.
+At the start of 2021, after a year of Covid-19 craziness, I found myself ready for a new challenge. Prior to the lockdowns, I had been on a roll studying the Microsoft Azure Cloud, getting certified as a developer, solutions architect and finally (reaching my personal goal) as a DevOps expert. I felt that it would be of value for me to extend my knowledge by adding a second cloud (AWS) to the mix. I was not only interested in extending my technical skills but perhaps even more keen to try to discern over-arching principles and practices in infrastructure design and application development that were not bound to a single Cloud.
 
 # How I used to Study
 
@@ -46,35 +46,37 @@ I want to take special care at this time to make two points to you, the reader, 
 
 In this section I will try to outline the main lessons I learned about studying efficiently. The first point I'd like to make is this: there can be a big difference between mastering a subject and testing well on it.
 
-Look at it this way: do you believe someone who can name all the European nations' capitals and can give you the start- and end-dates of all major conflicts, to be an expert on European history? No, right? Expertise requires a more intimate level of knowledge than trivia and dates, right?
+Look at it this way: do you believe someone who can name all the European nations' capitals and can give you the start- and end-dates of all major conflicts, to be an expert on European history? No, right? Expertise requires a more intimate level of knowledge than trivia and dates.
 
 I came to the conclusion that being an expert Cloud Architect is not only about answering questions correctly, it's about being comfortable executing tasks in an environment, about comparing options given certain scenario's and about designing solutions given the cloud services available. So how do we get there? Well, there are some key points to keep in mind.
 
 ## Learning Should be Hard
 
-Standard studying methods, re-reading and highlighting texts, watching videos etc. can give you the feeling of knowing a set of materials too early. Did you ever get the feeling while reading a new text during study that everything in it made perfect sense? That you really kind of already know this because it's all perfectly logical? This is a trap.
+Standard studying methods, re-reading and highlighting texts, watching videos etc. can give you the feeling of knowing a set of materials too early. Have you ever gotten the feeling while reading a new text during study that it immediately makes perfect sense? That you really kind of already know this because it's all perfectly logical? This is a trap.
 
-What happens is you become familiar with the wording of the text, the sentences, paragraphs, sections and headings, rather than the actual materials presented. In order to avoid this, I strived to become a more active learner.
+What happens is you become familiar with the wording of the text, the sentence-structure, and phrasing, rather than the actual materials presented. In order to avoid this, I strived to become a more active learner.
 
 ## Retrieval is Key
 
 Learning is the process of storing and accurately retrieving a piece of information from your memory. Whether it's remembering the capital of Poland, or listing the five pillars of the AWS Well Architected Framework and their key principles, you are trying to walk the neural pathways in your brain to bring the correct piece of information to the surface.
 
-Studies show that the act of successfully retrieving information will strengthen the neural pathway involved, making the next attempt at retrieval a little easier and faster. So learning in effect is like repeatedly traveling a road in your mind, transforming it from a shallow dirt track into an information super-highway.
+Studies show that the act of successfully retrieving information will strengthen the neural pathway involved, making the next attempt at retrieval a little easier and faster. Learning in effect is like repeatedly traveling a road in your mind, transforming it from a shallow dirt track into an information super-highway.
 
-The implication on study strategy is that simple repeated intake or information through your senses is not sufficient. There has to be an active component involved where you answer a question or solve a problem that involves the desired knowledge. Only through diving into your memory and rooting around for the answer will the path become more traveled. This means that reading and re-reading a text, or watching a video course, in itself will not suffice. You should instead focus on actively engaging your memory as often as needed to keep the information fresh, and start doing this as soon as possible.
+The implication on study strategy is that simple repeated intake or information through your senses is not sufficient. There has to be an active component where you answer a question or solve a problem that builds on the desired knowledge. Only through diving into your memory and rooting around for the answer will the path become more traveled. 
+
+This means that reading and re-reading a text, or watching a video course, in itself will not suffice. You should instead focus on actively engaging your memory as often as needed to keep the information fresh, and start doing this as soon as possible.
 
 ## Testing Early
 
-I used to use tests as an indication of whether or not I was ready to sit an exam. I'd cram and consume materials, and then only when I felt like I was almost ready would I start taking practice tests. The goal at that point in time was to check what I knew and to identify gaps that needed revision.
+I used to use practice tests as an indication of whether or not I was ready to sit an exam. I'd cram and consume materials, and then only when I felt like I was almost ready would I start testing myself. The goal at that point in time was to check what I knew and to identify gaps that needed revision.
 
 This has changed. Today when I start a study session on a topic the first thing I do is look for some test questions to answer. I do not need a full practice exam or a set of 50 questions. I want about 5 specific questions on the topic I am about to study.
 
 ![image alt >](/images/testing.png)
 
-You might ask why. Well, I use the questions to trigger what you might call _conscious effort_ contemplating the materials. I may not have studied it yet, but trying to answer a question up front will force me to consider existing knowledge, tie in things I learned earlier and all together be more attentive of what is being asked. Instead of just coasting through some questions because I know the answer, I must look at the ask more closely and try to piece together an answer.
+You might ask why. Well, I use the questions to trigger _conscious effort_ by contemplating the materials. I may not have studied it yet, but trying to answer a question up front will force me to consider existing knowledge, tie in things I learned earlier and all together be more attentive of what is being asked. Instead of just coasting through because I know the answer, I must look at the question more closely and try to piece together an answer.
 
-I'll add that, if there are no ready-made questions available, I will try to come up with my own as soon as possible while studying. This not only gives me something to work with, but also ensures that I pick my own wording for the question so I don't fall into the trap we discussed earlier of mistaking recognition for knowledge.
+I'll add that if there are no ready-made questions available, I will try to come up with my own as soon as possible while studying. This not only gives me something to work with, but also ensures that I pick my own wording for the question so I don't fall into the trap we discussed earlier of mistaking recognition for knowledge.
 
 ## Staggered Learning
 
@@ -97,7 +99,7 @@ And like this:
 * S3
 * ...
 
-Each section is between 30 minutes and several hours in length. When studying these courses I would start at chapter 1, go through it completely, move on to chapter 2, then 3 and so on.. Generally speaking each section consisted of theory, perhaps followed by some labs, often finishing with a practice test to see if I remembered what I am supposed to learn. I often spent multiple hours of uninterrupted study this way covering one or maybe two subjects, in succession. This is illustrated in the table below.
+Each section is between 30 minutes and several hours in length. When studying these courses I would start at chapter 1, go through it completely, move on to chapter 2, then 3 and so on.. Generally speaking each section consisted of theory, perhaps followed by some labs, often finishing with a practice test to see if I remembered what I am supposed to learn. I often spent multiple hours of uninterrupted study this way covering one or maybe two subjects, in succession. This is called _stacked learning._ It is illustrated in the table below.
 
 ![](/images/stacked-learning.png)
 
@@ -105,9 +107,9 @@ As it turns out, research shows that organising effort into short, varied bursts
 
 ![](/images/staggered-learning.png)
 
-Unfortunately this method of staggered learning does not intuitively feel like the best approach. While studying it often seemed like more effort is required and I was having a tougher time in general. But remember that learning should be hard. So armed with a bit of background information, perhaps you can give it a try and break up your studies into short and varied activities.
+Unfortunately this method of _staggered learning_ does not intuitively feel like the best approach. While studying it often seemed like more effort was required and I was having a tougher time in general. But remember that learning should be hard. So armed with a bit of background information, perhaps you can give it a try and break up your studies into short and varied activities.
 
-Another aspect of staggered learning is overall study duration and spacing. Spending one hour a day, every day is more effective than spending 8 hours on a Saturday with your nose in the books. Try to go for regular, shorter intervals rather than the big weekend cram.
+Another aspect of staggered learning is overall study duration and spacing. Spending one hour a day, every day is more effective than spending 8 hours on a Saturday with your nose in the books. Try to go for regular, shorter intervals of focused work rather than the big weekend cram.
 
 ## Mental Models and Mindmaps
 
