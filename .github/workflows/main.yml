@@ -14,6 +14,12 @@ jobs:
     steps:
       - name: Check out master
         uses: actions/checkout@master
+        
+      - name: install go
+        uses: actions/setup-go@v2
+        with:
+          go-version: '^1.16' # The Go version to download (if necessary) and use.
+        id: go
           
       - name: Deploy site
         uses: plopcas/hugo-s3-action@v1.3.0
