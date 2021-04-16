@@ -72,7 +72,7 @@ I used to use practice tests as an indication of whether or not I was ready to s
 
 This has changed. Today when I start a study session on a topic the first thing I do is look for some test questions to answer. I do not need a full practice exam or a set of 50 questions. I want about 5 specific questions on the topic I am about to study.
 
-![image alt >](/images/testing.png)
+![](/images/testing.png)
 
 You might ask why. Well, I use the questions to trigger _conscious effort_ by contemplating the materials. I may not have studied it yet, but trying to answer a question up front will force me to consider existing knowledge, tie in things I learned earlier and all together be more attentive of what is being asked. Instead of just coasting through because I know the answer, I must look at the question more closely and try to piece together an answer.
 
@@ -117,7 +117,7 @@ Learning new materials is all about building your own mental model of how things
 
 I discovered a great tool in the use of mind-mapping software to support this effort. Mind-mapping allows me to create a physical manifestation of (parts of) my mental models. Not only does this give me a new way of viewing this information in a structured way, it also forces me to "re-encode" the incoming information - be it auditive, visual or tactile - into a new form of representation that I control. This breaks me away from the formatting of the source materials and immediately gives me an opportunity for reflection.
 
-![image alt <](/images/solutions-architect-associate-master.png) I believe so strongly in the value of mind-mapping, that I actually decided to share the mind-maps I am creating while studying for the AWS exams. So if you are interested in these, head over to [https://mindmaps.leanfield.io](https://mindmaps.leanfield.io "https://mindmaps.leanfield.io")
+![](/images/solutions-architect-associate-master.png) I believe so strongly in the value of mind-mapping, that I actually decided to share the mind-maps I am creating while studying for the AWS exams. So if you are interested in these, head over to [https://mindmaps.leanfield.io](https://mindmaps.leanfield.io "https://mindmaps.leanfield.io")
 
 Mind you, while I do hope you will find value in these maps, I mainly share them as inspiration for you to create your own versions of these while studying. As I said, they are meant to represent _YOUR_ mental model, so go ahead and give it a go. There are a ton of options to help you create the maps, I used the online tool at [draw.io](draw.io "draw.io") to create mine.
 
