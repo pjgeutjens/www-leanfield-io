@@ -72,7 +72,7 @@ I used to use practice tests as an indication of whether or not I was ready to s
 
 This has changed. Today when I start a study session on a topic the first thing I do is look for some test questions to answer. I do not need a full practice exam or a set of 50 questions. I want about 5 specific questions on the topic I am about to study.
 
-![](/images/testing.png)
+![testing](/images/testing.png)
 
 You might ask why. Well, I use the questions to trigger _conscious effort_ by contemplating the materials. I may not have studied it yet, but trying to answer a question up front will force me to consider existing knowledge, tie in things I learned earlier and all together be more attentive of what is being asked. Instead of just coasting through because I know the answer, I must look at the question more closely and try to piece together an answer.
 
@@ -101,11 +101,11 @@ And like this:
 
 Each section is between 30 minutes and several hours in length. When studying these courses I would start at chapter 1, go through it completely, move on to chapter 2, then 3 and so on.. Generally speaking each section consisted of theory, perhaps followed by some labs, often finishing with a practice test to see if I remembered what I am supposed to learn. I often spent multiple hours of uninterrupted study this way covering one or maybe two subjects, in succession. This is called _stacked learning._ It is illustrated in the table below.
 
-![](/images/stacked-learning.png)
+![stacked learning](/images/stacked-learning.png)
 
 As it turns out, research shows that organising effort into short, varied bursts of study on a mix of subjects has a positive effect on retention. So instead of starting with topic A, spending a few hours on theory, labs, testing, and then moving on to topic B for more of the same, it has value to interleave subjects A, B, C more quickly. Starting perhaps with an early set of trigger questions on A, a short text, then a video on subject C followed by a lab on topic B. A path not unlike the one shown below.
 
-![](/images/staggered-learning.png)
+![staggered learning](/images/staggered-learning.png)
 
 Unfortunately this method of _staggered learning_ does not intuitively feel like the best approach. While studying it often seemed like more effort was required and I was having a tougher time in general. But remember that learning should be hard. So armed with a bit of background information, perhaps you can give it a try and break up your studies into short and varied activities.
 
@@ -117,7 +117,7 @@ Learning new materials is all about building your own mental model of how things
 
 I discovered a great tool in the use of mind-mapping software to support this effort. Mind-mapping allows me to create a physical manifestation of (parts of) my mental models. Not only does this give me a new way of viewing this information in a structured way, it also forces me to "re-encode" the incoming information - be it auditive, visual or tactile - into a new form of representation that I control. This breaks me away from the formatting of the source materials and immediately gives me an opportunity for reflection.
 
-![](/images/solutions-architect-associate-master.png) I believe so strongly in the value of mind-mapping, that I actually decided to share the mind-maps I am creating while studying for the AWS exams. So if you are interested in these, head over to [https://mindmaps.leanfield.io](https://mindmaps.leanfield.io "https://mindmaps.leanfield.io")
+![aws saa mindmap](/images/solutions-architect-associate-master.png) I believe so strongly in the value of mind-mapping, that I actually decided to share the mind-maps I am creating while studying for the AWS exams. So if you are interested in these, head over to [https://mindmaps.leanfield.io](https://mindmaps.leanfield.io "https://mindmaps.leanfield.io")
 
 Mind you, while I do hope you will find value in these maps, I mainly share them as inspiration for you to create your own versions of these while studying. As I said, they are meant to represent _YOUR_ mental model, so go ahead and give it a go. There are a ton of options to help you create the maps, I used the online tool at [draw.io](draw.io "draw.io") to create mine.
 
