@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://www.leanfield.io"
 languageCode: "en-us"
-title: "leanfield.io"
+title: "leanfield.io - Pieter Jan Geutjens' blog on Learning, Cloud and DevOps"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
