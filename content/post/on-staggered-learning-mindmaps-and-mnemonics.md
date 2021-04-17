@@ -133,6 +133,6 @@ My advice is simple: use mnemonics where applicable. I use them whenever I can. 
 
 # Conclusion
 
-Here we are, I believe I covered the most important lessons I learned about learning. So far my results are pretty good. I passed a first exam with a score over 95% and am working on my goal of gaining the DevOps Professional AWS certification.
+So here we are. I believe I covered the most important lessons I learned about learning. So far my results are pretty good. I passed a first exam with a score over 95% and am working on my goal of gaining the DevOps Professional AWS certification.
 
 As I mentioned at the start of this article, my goal in writing was not to sell a perfect solution for learning, only to share my own ongoing journey. Perhaps I can inspire others to view their continuous learning as an opportunity to experiment and try out new techniques. So best of luck to you all!
