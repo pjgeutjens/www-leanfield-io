@@ -3,6 +3,7 @@ languageCode: "en-us"
 title: "leanfield.io - Pieter Jan Geutjens' blog on Learning, Cloud and DevOps"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
+disqusShortname: leanfield
 
 # Theme settings
 # theme: novela

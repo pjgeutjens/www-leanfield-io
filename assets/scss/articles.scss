@@ -636,10 +636,10 @@ img[alt$="<"] {
   padding: 10px 20px 10px 0px;
 }
 
-// img[alt$="><"] {
-//   display: block;
-//   max-width: 100%;
-//   height: auto;
-//   margin: auto;
-//   float: none!important;
-// }
+img[alt$="><"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
