@@ -14,7 +14,9 @@
 
     {{ partial "article/next.html" . }}
 
-    {{ template "_internal/disqus.html" . }}
+    <!-- {{ template "_internal/disqus.html" . }} -->
+
+    {{ partial "comments/comments.html" }}
 </section>
 
 {{ $script := resources.Get "js/progressBar.js" }}
